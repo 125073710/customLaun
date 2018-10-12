@@ -1,0 +1,176 @@
+com.android.launcher3.AccessibleTabView
+com.android.launcher3.AccessibleTabView: AccessibleTabView(android.content.Context)
+com.android.launcher3.AccessibleTabView: AccessibleTabView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.AccessibleTabView: AccessibleTabView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.AppsCustomizePagedView
+com.android.launcher3.AppsCustomizePagedView: AppsCustomizePagedView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.AppsCustomizeTabHost
+com.android.launcher3.AppsCustomizeTabHost: AppsCustomizeTabHost(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.BubbleTextView
+com.android.launcher3.BubbleTextView: BubbleTextView(android.content.Context)
+com.android.launcher3.BubbleTextView: BubbleTextView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.BubbleTextView: BubbleTextView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.ButtonDropTarget: ButtonDropTarget(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.ButtonDropTarget: ButtonDropTarget(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.CellLayout
+com.android.launcher3.CellLayout: CellLayout(android.content.Context)
+com.android.launcher3.CellLayout: CellLayout(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.CellLayout: CellLayout(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.CellLayout: float getBackgroundAlpha()
+com.android.launcher3.CellLayout: void setBackgroundAlpha(float)
+com.android.launcher3.CellLayout$LayoutParams
+com.android.launcher3.CellLayout$LayoutParams: void setWidth(int)
+com.android.launcher3.CellLayout$LayoutParams: int getWidth()
+com.android.launcher3.CellLayout$LayoutParams: void setHeight(int)
+com.android.launcher3.CellLayout$LayoutParams: int getHeight()
+com.android.launcher3.CellLayout$LayoutParams: void setX(int)
+com.android.launcher3.CellLayout$LayoutParams: int getX()
+com.android.launcher3.CellLayout$LayoutParams: void setY(int)
+com.android.launcher3.CellLayout$LayoutParams: int getY()
+com.android.launcher3.CheckableFrameLayout
+com.android.launcher3.CheckableFrameLayout: CheckableFrameLayout(android.content.Context)
+com.android.launcher3.CheckableFrameLayout: CheckableFrameLayout(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.CheckableFrameLayout: CheckableFrameLayout(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.Cling
+com.android.launcher3.Cling: Cling(android.content.Context)
+com.android.launcher3.Cling: Cling(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.Cling: Cling(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.CropView
+com.android.launcher3.CropView: CropView(android.content.Context)
+com.android.launcher3.CropView: CropView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.DeleteDropTarget
+com.android.launcher3.DeleteDropTarget: DeleteDropTarget(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.DeleteDropTarget: DeleteDropTarget(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.DragLayer
+com.android.launcher3.DragLayer: DragLayer(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.DragLayer$LayoutParams
+com.android.launcher3.DragLayer$LayoutParams: void setWidth(int)
+com.android.launcher3.DragLayer$LayoutParams: int getWidth()
+com.android.launcher3.DragLayer$LayoutParams: void setHeight(int)
+com.android.launcher3.DragLayer$LayoutParams: int getHeight()
+com.android.launcher3.DragLayer$LayoutParams: void setX(int)
+com.android.launcher3.DragLayer$LayoutParams: int getX()
+com.android.launcher3.DragLayer$LayoutParams: void setY(int)
+com.android.launcher3.DragLayer$LayoutParams: int getY()
+com.android.launcher3.DrawableStateProxyView
+com.android.launcher3.DrawableStateProxyView: DrawableStateProxyView(android.content.Context)
+com.android.launcher3.DrawableStateProxyView: DrawableStateProxyView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.DrawableStateProxyView: DrawableStateProxyView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.FocusOnlyTabWidget
+com.android.launcher3.FocusOnlyTabWidget: FocusOnlyTabWidget(android.content.Context)
+com.android.launcher3.FocusOnlyTabWidget: FocusOnlyTabWidget(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.FocusOnlyTabWidget: FocusOnlyTabWidget(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.Folder
+com.android.launcher3.Folder: Folder(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.FolderEditText
+com.android.launcher3.FolderEditText: FolderEditText(android.content.Context)
+com.android.launcher3.FolderEditText: FolderEditText(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.FolderEditText: FolderEditText(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.FolderIcon
+com.android.launcher3.FolderIcon: FolderIcon(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.FolderIcon: FolderIcon(android.content.Context)
+com.android.launcher3.HolographicImageView
+com.android.launcher3.HolographicImageView: HolographicImageView(android.content.Context)
+com.android.launcher3.HolographicImageView: HolographicImageView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.HolographicImageView: HolographicImageView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.HolographicLinearLayout
+com.android.launcher3.HolographicLinearLayout: HolographicLinearLayout(android.content.Context)
+com.android.launcher3.HolographicLinearLayout: HolographicLinearLayout(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.HolographicLinearLayout: HolographicLinearLayout(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.Hotseat
+com.android.launcher3.Hotseat: Hotseat(android.content.Context)
+com.android.launcher3.Hotseat: Hotseat(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.Hotseat: Hotseat(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.InfoDropTarget
+com.android.launcher3.InfoDropTarget: InfoDropTarget(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.InfoDropTarget: InfoDropTarget(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.InstallShortcutReceiver
+com.android.launcher3.InstallShortcutReceiver: InstallShortcutReceiver()
+com.android.launcher3.Launcher
+com.android.launcher3.Launcher: Launcher()
+com.android.launcher3.Launcher: void onClickSearchButton(android.view.View)
+com.android.launcher3.Launcher: void onClickVoiceButton(android.view.View)
+com.android.launcher3.Launcher: void onClickAllAppsButton(android.view.View)
+com.android.launcher3.Launcher: void onClickAppMarketButton(android.view.View)
+com.android.launcher3.Launcher: void dismissFirstRunCling(android.view.View)
+com.android.launcher3.Launcher: void dismissWorkspaceCling(android.view.View)
+com.android.launcher3.Launcher: void dismissFolderCling(android.view.View)
+com.android.launcher3.Launcher: void all(android.view.View)
+com.android.launcher3.Launcher: void Radio(android.view.View)
+com.android.launcher3.Launcher: void daohang(android.view.View)
+com.android.launcher3.Launcher: void telephone(android.view.View)
+com.android.launcher3.Launcher: void music(android.view.View)
+com.android.launcher3.LauncherApplication
+com.android.launcher3.LauncherApplication: LauncherApplication()
+com.android.launcher3.LauncherProvider
+com.android.launcher3.LauncherProvider: LauncherProvider()
+com.android.launcher3.MemoryDumpActivity
+com.android.launcher3.MemoryDumpActivity: java.lang.String TAG
+com.android.launcher3.MemoryDumpActivity: MemoryDumpActivity()
+com.android.launcher3.MemoryDumpActivity: void onCreate(android.os.Bundle)
+com.android.launcher3.MemoryDumpActivity: java.lang.String zipUp(java.util.ArrayList)
+com.android.launcher3.MemoryDumpActivity: void dumpHprofAndShare(android.content.Context,com.android.launcher3.MemoryTracker)
+com.android.launcher3.MemoryDumpActivity: void onStart()
+com.android.launcher3.MemoryDumpActivity: void startDump(android.content.Context)
+com.android.launcher3.MemoryDumpActivity: void startDump(android.content.Context,java.lang.Runnable)
+com.android.launcher3.MemoryTracker
+com.android.launcher3.MemoryTracker: MemoryTracker()
+com.android.launcher3.PackageChangedReceiver
+com.android.launcher3.PackageChangedReceiver: PackageChangedReceiver()
+com.android.launcher3.PageIndicator
+com.android.launcher3.PageIndicator: PageIndicator(android.content.Context)
+com.android.launcher3.PageIndicator: PageIndicator(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PageIndicator: PageIndicator(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.PageIndicatorMarker
+com.android.launcher3.PageIndicatorMarker: PageIndicatorMarker(android.content.Context)
+com.android.launcher3.PageIndicatorMarker: PageIndicatorMarker(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PageIndicatorMarker: PageIndicatorMarker(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.PagedView: PagedView(android.content.Context)
+com.android.launcher3.PagedView: PagedView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PagedView: PagedView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.PagedViewIcon
+com.android.launcher3.PagedViewIcon: PagedViewIcon(android.content.Context)
+com.android.launcher3.PagedViewIcon: PagedViewIcon(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PagedViewIcon: PagedViewIcon(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.PagedViewWidget
+com.android.launcher3.PagedViewWidget: PagedViewWidget(android.content.Context)
+com.android.launcher3.PagedViewWidget: PagedViewWidget(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PagedViewWidget: PagedViewWidget(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.PagedViewWidgetImageView
+com.android.launcher3.PagedViewWidgetImageView: PagedViewWidgetImageView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PagedViewWithDraggableItems: PagedViewWithDraggableItems(android.content.Context)
+com.android.launcher3.PagedViewWithDraggableItems: PagedViewWithDraggableItems(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.PagedViewWithDraggableItems: PagedViewWithDraggableItems(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.PreloadReceiver
+com.android.launcher3.PreloadReceiver: PreloadReceiver()
+com.android.launcher3.ScrimView
+com.android.launcher3.ScrimView: ScrimView(android.content.Context)
+com.android.launcher3.ScrimView: ScrimView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.ScrimView: ScrimView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.SearchDropTargetBar
+com.android.launcher3.SearchDropTargetBar: SearchDropTargetBar(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.SearchDropTargetBar: SearchDropTargetBar(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.SmoothPagedView: SmoothPagedView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.SmoothPagedView: SmoothPagedView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.ToggleWeightWatcher
+com.android.launcher3.ToggleWeightWatcher: ToggleWeightWatcher()
+com.android.launcher3.UninstallShortcutReceiver
+com.android.launcher3.UninstallShortcutReceiver: UninstallShortcutReceiver()
+com.android.launcher3.UserInitializeReceiver
+com.android.launcher3.UserInitializeReceiver: UserInitializeReceiver()
+com.android.launcher3.WallpaperCropActivity
+com.android.launcher3.WallpaperCropActivity: WallpaperCropActivity()
+com.android.launcher3.WallpaperPickerActivity
+com.android.launcher3.WallpaperPickerActivity: WallpaperPickerActivity()
+com.android.launcher3.WallpaperRootView
+com.android.launcher3.WallpaperRootView: WallpaperRootView(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.WallpaperRootView: WallpaperRootView(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.Workspace
+com.android.launcher3.Workspace: Workspace(android.content.Context,android.util.AttributeSet)
+com.android.launcher3.Workspace: Workspace(android.content.Context,android.util.AttributeSet,int)
+com.android.launcher3.Workspace: void setChildrenOutlineAlpha(float)
+com.android.launcher3.Workspace: float getChildrenOutlineAlpha()
+com.android.launcher3.Workspace: void setBackgroundAlpha(float)
+com.android.launcher3.Workspace: float getBackgroundAlpha()
+com.android.photos.views.TiledImageView: TiledImageView(android.content.Context)
+com.android.photos.views.TiledImageView: TiledImageView(android.content.Context,android.util.AttributeSet)

@@ -1,0 +1,18 @@
+2017-2-10 添加
+LauncherModel  2405行  
+value 里面添加array
+
+
+修改应用信息显示后图标还原  在InfoDropTarget.Java  里面
+注释掉 97 98 99 行  修改DropTarget.java  里面 61 行 Boolean值 改为true
+
+添加  Mlog 工具 2017/2/24(未上次服务器)
+
+2017/2-24 本地修改 speech隐藏后能唤醒的问题(未上传服务器) 添加代码509行   453行
+
+
+
+注意:本地代码没有系统权限,所以没有实现对AUX,语音,DVD功能隐藏实现.
+
+
+主题修改: 主要文件为IconCatcher.java  增加文件为: ThemePickerActivity.java   修改文件为: Utiliteis.java   增加adapter包 193行

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Launcherk218</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_uninstall">APP not installed</string>
+    
+    <string name="mute_open">Mute</string>
+    <string name="mute_close">Sound open</string>
+    
+	 <string name="app_gps">Navigation</string>
+    <string name="app_racord">Dash Camera</string>
+    <string name="app_nusic">Music</string>
+    <string name="app_vedio">Video</string>
+    <string name="app_blooth_phone">BT function</string>
+    <string name="app_radar">Detector</string>
+    <string name="app_didihu">Didihu</string>
+    <string name="app_systemsetting">Settings</string>
+    <string name="app_fm">FM Launcher</string>
+    <string name="app_qtfm">QingtingFM</string>
+    <string name="app_file_manager">File management</string>
+    <string name="app_appmamager">APP</string>
+    <string name="app_wjsc">Sicong</string>
+    <string name="app_wechat_assistant">Device binding</string>
+    <string name="wether_temp_temperature">℃</string>
+    <string name="north">N</string>
+    <string name="east">E</string>
+    <string name="south">S</string>
+    <string name="west">W</string>
+    <string name="default_navigation">Selected navigation:</string>
+    <string name="navigation_baidu">Baidu Navigation</string>
+    <string name="navigation_gaode">Amap</string>
+    <string name="hint_confirm">Confirm</string>
+    <string name="hint_cancel">Cancel</string>
+	<string name="aios_wechat">On-board WeChat</string>
+	<string name="blueth_connect">Connected</string>
+	<string name="blueth_disconnect">Disconnected</string>
+	 <string name="app_ximalaya">XiMaLaYa</string>
+    
+    <string-array name="applist" translatable="false">
+        
+        <item>com.tricheer.recorder.MainActivity</item><!-- 行车记录 -->
+        <item>com.tricheer.bluetoothcarkit.MainListActivity</item><!-- 蓝牙电话 -->
+	    <item>com.baidu.navi.NaviActivity</item><!-- 实景导航 -->
+	    <item>com.tricheer.player.MusicPlayerActivity</item><!-- 音乐播放 -->
+	    
+	    
+	    <item>lct.tircheer.fm_transimtZPT.MainActivity</item><!-- FM发射 -->
+        
+        <item>com.chetuobang.android.edog.SplashActivity</item><!--雷达预警 -->
+        <item>com.android.settings.Settings</item>
+        <item>com.mirrtalk.app.MtLoginActivity</item><!-- 我叫思聪 -->
+ 		
+ 		
+ 		  <item>com.tencent.qqmusic.activity.AppStarterActivity</item><!-- test --> 
+	      <item>com.youku.phone.ActivityWelcome</item><!-- test --> 
+
+          <item>com.example.getpackagenametest.SoftActivity</item><!-- test --> 
+    </string-array>
+    <!-- 黑名单  需要添加class name -->
+    <string-array name="black_applist" translatable="false">
+       <!--  <item>com.android.settings.Settings</item> -->
+        <item>com.tricheer.processkiller.MainActivity</item>
+        <item>com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity</item>
+        <item>com.tricheer.gallery.GalleryActivity</item>
+        <item>com.android.providers.downloads.ui.Downloadlist</item>
+        <item>com.tricheer.player.MusicPlayerActivity</item>
+        <item>com.qualcomm.qti.modemtestmode.MbnFileActivate</item>
+        <item>com.tricheer.remoteservice.MainActivity</item>
+        <item>com.aispeech.aios.MainActivity</item>
+	   <item>com.chartcross.gpstestplus.GPSTestPlus</item><!--GPStest-->
+        <item>com.android.mms.ui.ConversationList</item>
+        <item>com.qualcomm.qti.logkit.cActivity</item>
+        <item>com.android.gallery3d.app.GalleryActivity</item>
+        <item>com.android.camera.CameraLauncher</item>
+    </string-array>
+  
+
+</resources>

@@ -1,0 +1,1903 @@
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoIcsImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoJellyBeanMr2
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoStubImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoVersionImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompatIcs
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompatJellyBeanMr2
+android.support.v4.app.ActionBarDrawerToggle
+android.support.v4.app.ActionBarDrawerToggle$1
+android.support.v4.app.ActionBarDrawerToggle$ActionBarDrawerToggleImpl
+android.support.v4.app.ActionBarDrawerToggle$ActionBarDrawerToggleImplBase
+android.support.v4.app.ActionBarDrawerToggle$ActionBarDrawerToggleImplHC
+android.support.v4.app.ActionBarDrawerToggle$Delegate
+android.support.v4.app.ActionBarDrawerToggle$DelegateProvider
+android.support.v4.app.ActionBarDrawerToggle$SlideDrawable
+android.support.v4.app.ActionBarDrawerToggleHoneycomb
+android.support.v4.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo
+android.support.v4.app.ActivityCompat
+android.support.v4.app.ActivityCompatHoneycomb
+android.support.v4.app.ActivityCompatJB
+android.support.v4.app.ActivityOptionsCompat
+android.support.v4.app.ActivityOptionsCompat$ActivityOptionsImplJB
+android.support.v4.app.ActivityOptionsCompatJB
+android.support.v4.app.BackStackRecord
+android.support.v4.app.BackStackRecord$Op
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState$1
+android.support.v4.app.DialogFragment
+android.support.v4.app.Fragment
+android.support.v4.app.Fragment$1
+android.support.v4.app.Fragment$InstantiationException
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState$1
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentActivity$1
+android.support.v4.app.FragmentActivity$2
+android.support.v4.app.FragmentActivity$FragmentTag
+android.support.v4.app.FragmentActivity$NonConfigurationInstances
+android.support.v4.app.FragmentContainer
+android.support.v4.app.FragmentManager
+android.support.v4.app.FragmentManager$BackStackEntry
+android.support.v4.app.FragmentManager$OnBackStackChangedListener
+android.support.v4.app.FragmentManagerImpl
+android.support.v4.app.FragmentManagerImpl$1
+android.support.v4.app.FragmentManagerImpl$2
+android.support.v4.app.FragmentManagerImpl$3
+android.support.v4.app.FragmentManagerImpl$4
+android.support.v4.app.FragmentManagerImpl$5
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState$1
+android.support.v4.app.FragmentPagerAdapter
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState$1
+android.support.v4.app.FragmentStatePagerAdapter
+android.support.v4.app.FragmentTabHost
+android.support.v4.app.FragmentTabHost$1
+android.support.v4.app.FragmentTabHost$DummyTabFactory
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState$1
+android.support.v4.app.FragmentTabHost$TabInfo
+android.support.v4.app.FragmentTransaction
+android.support.v4.app.ListFragment
+android.support.v4.app.ListFragment$1
+android.support.v4.app.ListFragment$2
+android.support.v4.app.LoaderManager
+android.support.v4.app.LoaderManager$LoaderCallbacks
+android.support.v4.app.LoaderManagerImpl
+android.support.v4.app.LoaderManagerImpl$LoaderInfo
+android.support.v4.app.NavUtils
+android.support.v4.app.NavUtils$NavUtilsImpl
+android.support.v4.app.NavUtils$NavUtilsImplBase
+android.support.v4.app.NavUtils$NavUtilsImplJB
+android.support.v4.app.NavUtilsJB
+android.support.v4.app.NoSaveStateFrameLayout
+android.support.v4.app.NotificationCompat
+android.support.v4.app.NotificationCompat$Action
+android.support.v4.app.NotificationCompat$BigPictureStyle
+android.support.v4.app.NotificationCompat$BigTextStyle
+android.support.v4.app.NotificationCompat$Builder
+android.support.v4.app.NotificationCompat$InboxStyle
+android.support.v4.app.NotificationCompat$NotificationCompatImpl
+android.support.v4.app.NotificationCompat$NotificationCompatImplBase
+android.support.v4.app.NotificationCompat$NotificationCompatImplHoneycomb
+android.support.v4.app.NotificationCompat$NotificationCompatImplIceCreamSandwich
+android.support.v4.app.NotificationCompat$NotificationCompatImplJellybean
+android.support.v4.app.NotificationCompat$Style
+android.support.v4.app.NotificationCompatHoneycomb
+android.support.v4.app.NotificationCompatIceCreamSandwich
+android.support.v4.app.NotificationCompatJellybean
+android.support.v4.app.ServiceCompat
+android.support.v4.app.ShareCompat
+android.support.v4.app.ShareCompat$IntentBuilder
+android.support.v4.app.ShareCompat$IntentReader
+android.support.v4.app.ShareCompat$ShareCompatImpl
+android.support.v4.app.ShareCompat$ShareCompatImplBase
+android.support.v4.app.ShareCompat$ShareCompatImplICS
+android.support.v4.app.ShareCompat$ShareCompatImplJB
+android.support.v4.app.ShareCompatICS
+android.support.v4.app.ShareCompatJB
+android.support.v4.app.SuperNotCalledException
+android.support.v4.app.TaskStackBuilder
+android.support.v4.app.TaskStackBuilder$SupportParentable
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImpl
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplBase
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplHoneycomb
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplJellybean
+android.support.v4.app.TaskStackBuilderHoneycomb
+android.support.v4.app.TaskStackBuilderJellybean
+android.support.v4.content.AsyncTaskLoader
+android.support.v4.content.AsyncTaskLoader$LoadTask
+android.support.v4.content.ContextCompat
+android.support.v4.content.ContextCompatFroyo
+android.support.v4.content.ContextCompatHoneycomb
+android.support.v4.content.ContextCompatJellybean
+android.support.v4.content.ContextCompatKitKat
+android.support.v4.content.CursorLoader
+android.support.v4.content.FileProvider
+android.support.v4.content.FileProvider$PathStrategy
+android.support.v4.content.FileProvider$SimplePathStrategy
+android.support.v4.content.IntentCompat
+android.support.v4.content.IntentCompat$IntentCompatImpl
+android.support.v4.content.IntentCompat$IntentCompatImplBase
+android.support.v4.content.IntentCompat$IntentCompatImplHC
+android.support.v4.content.IntentCompat$IntentCompatImplIcsMr1
+android.support.v4.content.IntentCompatHoneycomb
+android.support.v4.content.IntentCompatIcsMr1
+android.support.v4.content.Loader
+android.support.v4.content.Loader$ForceLoadContentObserver
+android.support.v4.content.Loader$OnLoadCompleteListener
+android.support.v4.content.LocalBroadcastManager
+android.support.v4.content.LocalBroadcastManager$1
+android.support.v4.content.LocalBroadcastManager$BroadcastRecord
+android.support.v4.content.LocalBroadcastManager$ReceiverRecord
+android.support.v4.content.ModernAsyncTask
+android.support.v4.content.ModernAsyncTask$1
+android.support.v4.content.ModernAsyncTask$2
+android.support.v4.content.ModernAsyncTask$3
+android.support.v4.content.ModernAsyncTask$4
+android.support.v4.content.ModernAsyncTask$AsyncTaskResult
+android.support.v4.content.ModernAsyncTask$InternalHandler
+android.support.v4.content.ModernAsyncTask$Status
+android.support.v4.content.ModernAsyncTask$WorkerRunnable
+android.support.v4.content.WakefulBroadcastReceiver
+android.support.v4.content.pm.ActivityInfoCompat
+android.support.v4.database.DatabaseUtilsCompat
+android.support.v4.graphics.drawable.DrawableCompat
+android.support.v4.graphics.drawable.DrawableCompat$BaseDrawableImpl
+android.support.v4.graphics.drawable.DrawableCompat$DrawableImpl
+android.support.v4.graphics.drawable.DrawableCompat$HoneycombDrawableImpl
+android.support.v4.graphics.drawable.DrawableCompat$KitKatDrawableImpl
+android.support.v4.graphics.drawable.DrawableCompatHoneycomb
+android.support.v4.graphics.drawable.DrawableCompatKitKat
+android.support.v4.hardware.display.DisplayManagerCompat
+android.support.v4.hardware.display.DisplayManagerCompat$JellybeanMr1Impl
+android.support.v4.hardware.display.DisplayManagerCompat$LegacyImpl
+android.support.v4.hardware.display.DisplayManagerJellybeanMr1
+android.support.v4.internal.view.SupportMenu
+android.support.v4.internal.view.SupportMenuItem
+android.support.v4.internal.view.SupportSubMenu
+android.support.v4.media.TransportController
+android.support.v4.media.TransportMediator
+android.support.v4.media.TransportMediator$1
+android.support.v4.media.TransportMediator$2
+android.support.v4.media.TransportMediatorCallback
+android.support.v4.media.TransportMediatorJellybeanMR2
+android.support.v4.media.TransportMediatorJellybeanMR2$1
+android.support.v4.media.TransportMediatorJellybeanMR2$2
+android.support.v4.media.TransportMediatorJellybeanMR2$3
+android.support.v4.media.TransportMediatorJellybeanMR2$4
+android.support.v4.media.TransportPerformer
+android.support.v4.media.TransportStateListener
+android.support.v4.net.ConnectivityManagerCompat
+android.support.v4.net.ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$ConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$GingerbreadConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompatGingerbread
+android.support.v4.net.ConnectivityManagerCompatHoneycombMR2
+android.support.v4.net.ConnectivityManagerCompatJellyBean
+android.support.v4.net.TrafficStatsCompat
+android.support.v4.net.TrafficStatsCompat$1
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl$1
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl$SocketTags
+android.support.v4.net.TrafficStatsCompat$IcsTrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompat$TrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompatIcs
+android.support.v4.os.EnvironmentCompat
+android.support.v4.os.EnvironmentCompatKitKat
+android.support.v4.os.ParcelableCompat
+android.support.v4.os.ParcelableCompat$CompatCreator
+android.support.v4.os.ParcelableCompatCreatorCallbacks
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2Stub
+android.support.v4.print.PrintHelper
+android.support.v4.print.PrintHelper$1
+android.support.v4.print.PrintHelper$PrintHelperKitkatImpl
+android.support.v4.print.PrintHelper$PrintHelperStubImpl
+android.support.v4.print.PrintHelper$PrintHelperVersionImpl
+android.support.v4.print.PrintHelperKitkat
+android.support.v4.print.PrintHelperKitkat$1
+android.support.v4.text.BidiFormatter
+android.support.v4.text.BidiFormatter$1
+android.support.v4.text.BidiFormatter$Builder
+android.support.v4.text.BidiFormatter$DirectionalityEstimator
+android.support.v4.text.ICUCompat
+android.support.v4.text.ICUCompat$ICUCompatImpl
+android.support.v4.text.ICUCompat$ICUCompatImplBase
+android.support.v4.text.ICUCompat$ICUCompatImplIcs
+android.support.v4.text.ICUCompatIcs
+android.support.v4.text.TextDirectionHeuristicCompat
+android.support.v4.text.TextDirectionHeuristicsCompat
+android.support.v4.text.TextDirectionHeuristicsCompat$1
+android.support.v4.text.TextDirectionHeuristicsCompat$AnyStrong
+android.support.v4.text.TextDirectionHeuristicsCompat$FirstStrong
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionAlgorithm
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicImpl
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicInternal
+android.support.v4.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicLocale
+android.support.v4.text.TextUtilsCompat
+android.support.v4.util.ArrayMap
+android.support.v4.util.ArrayMap$1
+android.support.v4.util.AtomicFile
+android.support.v4.util.ContainerHelpers:
+    19:19:ContainerHelpers()
+    25:25:public static int idealIntArraySize(int)
+    41:41:public static boolean equal(java.lang.Object,java.lang.Object)
+    46:61:static int binarySearch(int[],int,int)
+android.support.v4.util.DebugUtils
+android.support.v4.util.LogWriter
+android.support.v4.util.LongSparseArray:
+    118:126:public void delete(long)
+    132:133:public void remove(long)
+    270:275:public void setValueAt(int,java.lang.Object)
+    283:287:public int indexOfKey(long)
+    299:307:public int indexOfValue(java.lang.Object)
+    330:357:public void append(long,java.lang.Object)
+android.support.v4.util.LruCache
+android.support.v4.util.MapCollections
+android.support.v4.util.MapCollections$ArrayIterator
+android.support.v4.util.MapCollections$EntrySet
+android.support.v4.util.MapCollections$KeySet
+android.support.v4.util.MapCollections$MapIterator
+android.support.v4.util.MapCollections$ValuesCollection
+android.support.v4.util.SimpleArrayMap
+android.support.v4.util.SparseArrayCompat
+android.support.v4.util.TimeUtils
+android.support.v4.view.AccessibilityDelegateCompat
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl$1
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl$1
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateStubImpl
+android.support.v4.view.AccessibilityDelegateCompatIcs
+android.support.v4.view.AccessibilityDelegateCompatIcs$1
+android.support.v4.view.AccessibilityDelegateCompatIcs$AccessibilityDelegateBridge
+android.support.v4.view.AccessibilityDelegateCompatJellyBean
+android.support.v4.view.AccessibilityDelegateCompatJellyBean$1
+android.support.v4.view.AccessibilityDelegateCompatJellyBean$AccessibilityDelegateBridgeJellyBean
+android.support.v4.view.ActionProvider
+android.support.v4.view.ActionProvider$SubUiVisibilityListener
+android.support.v4.view.ActionProvider$VisibilityListener
+android.support.v4.view.GestureDetectorCompat
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImpl
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2
+android.support.v4.view.GravityCompat
+android.support.v4.view.GravityCompat$GravityCompatImpl
+android.support.v4.view.GravityCompat$GravityCompatImplBase
+android.support.v4.view.GravityCompat$GravityCompatImplJellybeanMr1
+android.support.v4.view.GravityCompatJellybeanMr1
+android.support.v4.view.KeyEventCompat
+android.support.v4.view.KeyEventCompat$BaseKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$EclairKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$HoneycombKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$KeyEventVersionImpl
+android.support.v4.view.KeyEventCompatEclair
+android.support.v4.view.KeyEventCompatHoneycomb
+android.support.v4.view.MarginLayoutParamsCompat
+android.support.v4.view.MarginLayoutParamsCompat$MarginLayoutParamsCompatImpl
+android.support.v4.view.MarginLayoutParamsCompat$MarginLayoutParamsCompatImplBase
+android.support.v4.view.MarginLayoutParamsCompat$MarginLayoutParamsCompatImplJbMr1
+android.support.v4.view.MarginLayoutParamsCompatJellybeanMr1
+android.support.v4.view.MenuCompat
+android.support.v4.view.MenuItemCompat
+android.support.v4.view.MenuItemCompat$BaseMenuVersionImpl
+android.support.v4.view.MenuItemCompat$HoneycombMenuVersionImpl
+android.support.v4.view.MenuItemCompat$IcsMenuVersionImpl
+android.support.v4.view.MenuItemCompat$IcsMenuVersionImpl$1
+android.support.v4.view.MenuItemCompat$MenuVersionImpl
+android.support.v4.view.MenuItemCompat$OnActionExpandListener
+android.support.v4.view.MenuItemCompatHoneycomb
+android.support.v4.view.MenuItemCompatIcs
+android.support.v4.view.MenuItemCompatIcs$OnActionExpandListenerWrapper
+android.support.v4.view.MenuItemCompatIcs$SupportActionExpandProxy
+android.support.v4.view.MotionEventCompat:
+    public static final int ACTION_MASK
+    public static final int ACTION_POINTER_DOWN
+    public static final int ACTION_POINTER_UP
+    public static final int ACTION_HOVER_MOVE
+    public static final int ACTION_SCROLL
+    public static final int ACTION_POINTER_INDEX_MASK
+    public static final int ACTION_POINTER_INDEX_SHIFT
+    public static final int ACTION_HOVER_ENTER
+    public static final int ACTION_HOVER_EXIT
+    25:80:public MotionEventCompat()
+    191:191:public static int getActionIndex(android.view.MotionEvent)
+    201:201:public static int findPointerIndex(android.view.MotionEvent,int)
+    210:210:public static int getPointerId(android.view.MotionEvent,int)
+    219:219:public static float getX(android.view.MotionEvent,int)
+    228:228:public static float getY(android.view.MotionEvent,int)
+    236:236:public static int getPointerCount(android.view.MotionEvent)
+android.support.v4.view.MotionEventCompat$BaseMotionEventVersionImpl:
+    43:47:public int findPointerIndex(android.view.MotionEvent,int)
+    51:55:public int getPointerId(android.view.MotionEvent,int)
+    59:62:public float getX(android.view.MotionEvent,int)
+    66:69:public float getY(android.view.MotionEvent,int)
+    73:73:public int getPointerCount(android.view.MotionEvent)
+android.support.v4.view.MotionEventCompat$EclairMotionEventVersionImpl:
+    83:83:public int findPointerIndex(android.view.MotionEvent,int)
+    87:87:public int getPointerId(android.view.MotionEvent,int)
+    91:91:public float getX(android.view.MotionEvent,int)
+    95:95:public float getY(android.view.MotionEvent,int)
+    99:99:public int getPointerCount(android.view.MotionEvent)
+android.support.v4.view.MotionEventCompat$MotionEventVersionImpl:
+    public abstract int findPointerIndex(android.view.MotionEvent,int)
+    public abstract int getPointerId(android.view.MotionEvent,int)
+    public abstract float getX(android.view.MotionEvent,int)
+    public abstract float getY(android.view.MotionEvent,int)
+    public abstract int getPointerCount(android.view.MotionEvent)
+android.support.v4.view.MotionEventCompatEclair
+android.support.v4.view.PagerAdapter
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip$1
+android.support.v4.view.PagerTabStrip$2
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip$1
+android.support.v4.view.PagerTitleStrip$PageListener
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImpl
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImplBase
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImplIcs
+android.support.v4.view.PagerTitleStripIcs
+android.support.v4.view.PagerTitleStripIcs$SingleLineAllCapsTransform
+android.support.v4.view.ScaleGestureDetectorCompat
+android.support.v4.view.ScaleGestureDetectorCompat$1
+android.support.v4.view.ScaleGestureDetectorCompat$BaseScaleGestureDetectorImpl
+android.support.v4.view.ScaleGestureDetectorCompat$ScaleGestureDetectorCompatKitKatImpl
+android.support.v4.view.ScaleGestureDetectorCompat$ScaleGestureDetectorImpl
+android.support.v4.view.ScaleGestureDetectorCompatKitKat
+android.support.v4.view.VelocityTrackerCompat
+android.support.v4.view.VelocityTrackerCompat$BaseVelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompat$HoneycombVelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompat$VelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompatHoneycomb
+android.support.v4.view.ViewCompat:
+    public static final int OVER_SCROLL_ALWAYS
+    public static final int OVER_SCROLL_IF_CONTENT_SCROLLS
+    public static final int OVER_SCROLL_NEVER
+    private static final long FAKE_FRAME_TIME
+    public static final int IMPORTANT_FOR_ACCESSIBILITY_AUTO
+    public static final int IMPORTANT_FOR_ACCESSIBILITY_YES
+    public static final int IMPORTANT_FOR_ACCESSIBILITY_NO
+    public static final int IMPORTANT_FOR_ACCESSIBILITY_NO_HIDE_DESCENDANTS
+    public static final int ACCESSIBILITY_LIVE_REGION_NONE
+    public static final int ACCESSIBILITY_LIVE_REGION_POLITE
+    public static final int ACCESSIBILITY_LIVE_REGION_ASSERTIVE
+    public static final int LAYER_TYPE_NONE
+    public static final int LAYER_TYPE_SOFTWARE
+    public static final int LAYER_TYPE_HARDWARE
+    public static final int LAYOUT_DIRECTION_LTR
+    public static final int LAYOUT_DIRECTION_RTL
+    public static final int LAYOUT_DIRECTION_INHERIT
+    public static final int LAYOUT_DIRECTION_LOCALE
+    public static final int MEASURED_SIZE_MASK
+    public static final int MEASURED_STATE_MASK
+    public static final int MEASURED_HEIGHT_STATE_SHIFT
+    public static final int MEASURED_STATE_TOO_SMALL
+    34:534:public ViewCompat()
+    574:574:public static boolean canScrollHorizontally(android.view.View,int)
+    585:585:public static boolean canScrollVertically(android.view.View,int)
+    598:598:public static int getOverScrollMode(android.view.View)
+    614:615:public static void setOverScrollMode(android.view.View,int)
+    651:652:public static void onPopulateAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    684:685:public static void onInitializeAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    720:721:public static void onInitializeAccessibilityNodeInfo(android.view.View,android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)
+    735:736:public static void setAccessibilityDelegate(android.view.View,android.support.v4.view.AccessibilityDelegateCompat)
+    747:747:public static boolean hasTransientState(android.view.View)
+    758:759:public static void setHasTransientState(android.view.View,boolean)
+    771:772:public static void postInvalidateOnAnimation(android.view.View)
+    789:790:public static void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+    837:837:public static int getImportantForAccessibility(android.view.View)
+    854:855:public static void setImportantForAccessibility(android.view.View,int)
+    872:872:public static boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+    899:899:public static android.support.v4.view.accessibility.AccessibilityNodeProviderCompat getAccessibilityNodeProvider(android.view.View)
+    910:910:public static float getAlpha(android.view.View)
+    953:954:public static void setLayerType(android.view.View,int,android.graphics.Paint)
+    973:973:public static int getLayerType(android.view.View)
+    984:984:public static int getLabelFor(android.view.View)
+    995:996:public static void setLabelFor(android.view.View,int)
+    1029:1030:public static void setLayerPaint(android.view.View,android.graphics.Paint)
+    1043:1043:public static int getLayoutDirection(android.view.View)
+    1063:1064:public static void setLayoutDirection(android.view.View,int)
+    1075:1075:public static android.view.ViewParent getParentForAccessibility(android.view.View)
+    1088:1088:public static boolean isOpaque(android.view.View)
+    1105:1105:public static int resolveSizeAndState(int,int,int)
+    1119:1119:public static int getMeasuredWidthAndState(android.view.View)
+    1133:1133:public static int getMeasuredHeightAndState(android.view.View)
+    1144:1144:public static int getMeasuredState(android.view.View)
+    1156:1156:public int getAccessibilityLiveRegion(android.view.View)
+    1188:1189:public void setAccessibilityLiveRegion(android.view.View,int)
+android.support.v4.view.ViewCompat$BaseViewCompatImpl:
+    236:236:public boolean canScrollHorizontally(android.view.View,int)
+    239:239:public boolean canScrollVertically(android.view.View,int)
+    242:242:public int getOverScrollMode(android.view.View)
+    246:246:public void setOverScrollMode(android.view.View,int)
+    249:249:public void setAccessibilityDelegate(android.view.View,android.support.v4.view.AccessibilityDelegateCompat)
+    252:252:public void onPopulateAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    255:255:public void onInitializeAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    258:258:public void onInitializeAccessibilityNodeInfo(android.view.View,android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)
+    261:261:public boolean hasTransientState(android.view.View)
+    265:265:public void setHasTransientState(android.view.View,boolean)
+    267:268:public void postInvalidateOnAnimation(android.view.View)
+    270:271:public void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+    282:282:public int getImportantForAccessibility(android.view.View)
+    286:286:public void setImportantForAccessibility(android.view.View,int)
+    288:288:public boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+    291:291:public android.support.v4.view.accessibility.AccessibilityNodeProviderCompat getAccessibilityNodeProvider(android.view.View)
+    294:294:public float getAlpha(android.view.View)
+    298:298:public void setLayerType(android.view.View,int,android.graphics.Paint)
+    300:300:public int getLayerType(android.view.View)
+    303:303:public int getLabelFor(android.view.View)
+    307:307:public void setLabelFor(android.view.View,int)
+    310:310:public void setLayerPaint(android.view.View,android.graphics.Paint)
+    314:314:public int getLayoutDirection(android.view.View)
+    320:320:public void setLayoutDirection(android.view.View,int)
+    324:324:public android.view.ViewParent getParentForAccessibility(android.view.View)
+    329:333:public boolean isOpaque(android.view.View)
+    337:337:public int resolveSizeAndState(int,int,int)
+    342:342:public int getMeasuredWidthAndState(android.view.View)
+    347:347:public int getMeasuredHeightAndState(android.view.View)
+    352:352:public int getMeasuredState(android.view.View)
+    357:357:public int getAccessibilityLiveRegion(android.view.View)
+    363:363:public void setAccessibilityLiveRegion(android.view.View,int)
+android.support.v4.view.ViewCompat$EclairMr1ViewCompatImpl:
+    369:369:public boolean isOpaque(android.view.View)
+android.support.v4.view.ViewCompat$GBViewCompatImpl:
+    376:376:public int getOverScrollMode(android.view.View)
+    380:381:public void setOverScrollMode(android.view.View,int)
+android.support.v4.view.ViewCompat$HCViewCompatImpl:
+    391:391:public float getAlpha(android.view.View)
+    395:396:public void setLayerType(android.view.View,int,android.graphics.Paint)
+    399:399:public int getLayerType(android.view.View)
+    405:408:public void setLayerPaint(android.view.View,android.graphics.Paint)
+    411:411:public int resolveSizeAndState(int,int,int)
+    415:415:public int getMeasuredWidthAndState(android.view.View)
+    419:419:public int getMeasuredHeightAndState(android.view.View)
+    423:423:public int getMeasuredState(android.view.View)
+android.support.v4.view.ViewCompat$ICSViewCompatImpl:
+    430:430:public boolean canScrollHorizontally(android.view.View,int)
+    434:434:public boolean canScrollVertically(android.view.View,int)
+    438:439:public void onPopulateAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    442:443:public void onInitializeAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    446:447:public void onInitializeAccessibilityNodeInfo(android.view.View,android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)
+    450:451:public void setAccessibilityDelegate(android.view.View,android.support.v4.view.AccessibilityDelegateCompat)
+android.support.v4.view.ViewCompat$JBViewCompatImpl:
+    457:457:public boolean hasTransientState(android.view.View)
+    461:462:public void setHasTransientState(android.view.View,boolean)
+    465:466:public void postInvalidateOnAnimation(android.view.View)
+    469:470:public void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+    481:481:public int getImportantForAccessibility(android.view.View)
+    485:486:public void setImportantForAccessibility(android.view.View,int)
+    489:489:public boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+    493:497:public android.support.v4.view.accessibility.AccessibilityNodeProviderCompat getAccessibilityNodeProvider(android.view.View)
+    502:502:public android.view.ViewParent getParentForAccessibility(android.view.View)
+android.support.v4.view.ViewCompat$JbMr1ViewCompatImpl:
+    510:510:public int getLabelFor(android.view.View)
+    515:516:public void setLabelFor(android.view.View,int)
+    520:521:public void setLayerPaint(android.view.View,android.graphics.Paint)
+    525:525:public int getLayoutDirection(android.view.View)
+    530:531:public void setLayoutDirection(android.view.View,int)
+android.support.v4.view.ViewCompat$KitKatViewCompatImpl:
+    537:537:public int getAccessibilityLiveRegion(android.view.View)
+    542:543:public void setAccessibilityLiveRegion(android.view.View,int)
+android.support.v4.view.ViewCompat$ViewCompatImpl:
+    public abstract boolean canScrollHorizontally(android.view.View,int)
+    public abstract boolean canScrollVertically(android.view.View,int)
+    public abstract int getOverScrollMode(android.view.View)
+    public abstract void setOverScrollMode(android.view.View,int)
+    public abstract void onInitializeAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    public abstract void onPopulateAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
+    public abstract void onInitializeAccessibilityNodeInfo(android.view.View,android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)
+    public abstract void setAccessibilityDelegate(android.view.View,android.support.v4.view.AccessibilityDelegateCompat)
+    public abstract boolean hasTransientState(android.view.View)
+    public abstract void setHasTransientState(android.view.View,boolean)
+    public abstract void postInvalidateOnAnimation(android.view.View)
+    public abstract void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+    public abstract int getImportantForAccessibility(android.view.View)
+    public abstract void setImportantForAccessibility(android.view.View,int)
+    public abstract boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+    public abstract android.support.v4.view.accessibility.AccessibilityNodeProviderCompat getAccessibilityNodeProvider(android.view.View)
+    public abstract float getAlpha(android.view.View)
+    public abstract void setLayerType(android.view.View,int,android.graphics.Paint)
+    public abstract int getLayerType(android.view.View)
+    public abstract int getLabelFor(android.view.View)
+    public abstract void setLabelFor(android.view.View,int)
+    public abstract void setLayerPaint(android.view.View,android.graphics.Paint)
+    public abstract int getLayoutDirection(android.view.View)
+    public abstract void setLayoutDirection(android.view.View,int)
+    public abstract android.view.ViewParent getParentForAccessibility(android.view.View)
+    public abstract boolean isOpaque(android.view.View)
+    public abstract int resolveSizeAndState(int,int,int)
+    public abstract int getMeasuredWidthAndState(android.view.View)
+    public abstract int getMeasuredHeightAndState(android.view.View)
+    public abstract int getMeasuredState(android.view.View)
+    public abstract int getAccessibilityLiveRegion(android.view.View)
+    public abstract void setAccessibilityLiveRegion(android.view.View,int)
+android.support.v4.view.ViewCompatEclairMr1
+android.support.v4.view.ViewCompatGingerbread
+android.support.v4.view.ViewCompatHC:
+    23:23:ViewCompatHC()
+    29:29:public static float getAlpha(android.view.View)
+    33:34:public static void setLayerType(android.view.View,int,android.graphics.Paint)
+    37:37:public static int getLayerType(android.view.View)
+    41:41:public static int resolveSizeAndState(int,int,int)
+    45:45:public static int getMeasuredWidthAndState(android.view.View)
+    49:49:public static int getMeasuredHeightAndState(android.view.View)
+    53:53:public static int getMeasuredState(android.view.View)
+android.support.v4.view.ViewCompatICS
+android.support.v4.view.ViewCompatJB:
+    26:26:ViewCompatJB()
+    29:29:public static boolean hasTransientState(android.view.View)
+    33:34:public static void setHasTransientState(android.view.View,boolean)
+    37:38:public static void postInvalidateOnAnimation(android.view.View)
+    42:43:public static void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+    54:54:public static int getImportantForAccessibility(android.view.View)
+    58:59:public static void setImportantForAccessibility(android.view.View,int)
+    62:62:public static boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+    66:66:public static java.lang.Object getAccessibilityNodeProvider(android.view.View)
+    70:70:public static android.view.ViewParent getParentForAccessibility(android.view.View)
+android.support.v4.view.ViewCompatJellybeanMr1
+android.support.v4.view.ViewCompatKitKat
+android.support.v4.view.ViewConfigurationCompat
+android.support.v4.view.ViewConfigurationCompat$BaseViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompat$FroyoViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompat$ViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompatFroyo
+android.support.v4.view.ViewGroupCompat
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatHCImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatIcsImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatJellybeanMR2Impl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatStubImpl
+android.support.v4.view.ViewGroupCompatHC
+android.support.v4.view.ViewGroupCompatIcs
+android.support.v4.view.ViewGroupCompatJellybeanMR2
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager$1
+android.support.v4.view.ViewPager$2
+android.support.v4.view.ViewPager$3
+android.support.v4.view.ViewPager$Decor
+android.support.v4.view.ViewPager$ItemInfo
+android.support.v4.view.ViewPager$LayoutParams
+android.support.v4.view.ViewPager$MyAccessibilityDelegate
+android.support.v4.view.ViewPager$OnAdapterChangeListener
+android.support.v4.view.ViewPager$OnPageChangeListener
+android.support.v4.view.ViewPager$PageTransformer
+android.support.v4.view.ViewPager$PagerObserver
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState$1
+android.support.v4.view.ViewPager$SimpleOnPageChangeListener
+android.support.v4.view.ViewPager$ViewPositionComparator
+android.support.v4.view.ViewParentCompat
+android.support.v4.view.ViewParentCompat$ViewParentCompatICSImpl
+android.support.v4.view.ViewParentCompat$ViewParentCompatImpl
+android.support.v4.view.ViewParentCompat$ViewParentCompatStubImpl
+android.support.v4.view.ViewParentCompatICS
+android.support.v4.view.WindowCompat
+android.support.v4.view.accessibility.AccessibilityEventCompat
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventIcsImpl
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventStubImpl
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventVersionImpl
+android.support.v4.view.accessibility.AccessibilityEventCompatIcs
+android.support.v4.view.accessibility.AccessibilityManagerCompat
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerIcsImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerIcsImpl$1
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerStubImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerVersionImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListenerCompat
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs$1
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs$AccessibilityStateChangeListenerBridge
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoIcsImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanMr2Impl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoKitKatImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoStubImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatIcs
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatJellyBean
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatJellybeanMr2
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatKitKat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderKitKatImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderKitKatImpl$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderStubImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean$AccessibilityNodeInfoBridge
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat$AccessibilityNodeInfoBridge
+android.support.v4.view.accessibility.AccessibilityRecordCompat
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordIcsImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordIcsMr1Impl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordJellyBeanImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordStubImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompatIcs
+android.support.v4.view.accessibility.AccessibilityRecordCompatIcsMr1
+android.support.v4.view.accessibility.AccessibilityRecordCompatJellyBean
+android.support.v4.widget.AutoScrollHelper:
+    public static final float RELATIVE_UNSPECIFIED
+    public static final float NO_MAX
+    public static final float NO_MIN
+    public static final int EDGE_TYPE_INSIDE
+    public static final int EDGE_TYPE_INSIDE_EXTEND
+    public static final int EDGE_TYPE_OUTSIDE
+    private static final int HORIZONTAL
+    private static final int VERTICAL
+    private static final int DEFAULT_EDGE_TYPE
+    private static final int DEFAULT_MINIMUM_VELOCITY_DIPS
+    private static final int DEFAULT_MAXIMUM_VELOCITY_DIPS
+    private static final float DEFAULT_MAXIMUM_EDGE
+    private static final float DEFAULT_RELATIVE_EDGE
+    private static final float DEFAULT_RELATIVE_VELOCITY
+    private static final int DEFAULT_RAMP_UP_DURATION
+    private static final int DEFAULT_RAMP_DOWN_DURATION
+    276:276:public boolean isExclusive()
+android.support.v4.widget.ContentLoadingProgressBar
+android.support.v4.widget.ContentLoadingProgressBar$1
+android.support.v4.widget.ContentLoadingProgressBar$2
+android.support.v4.widget.CursorAdapter
+android.support.v4.widget.CursorAdapter$1
+android.support.v4.widget.CursorAdapter$ChangeObserver
+android.support.v4.widget.CursorAdapter$MyDataSetObserver
+android.support.v4.widget.CursorFilter
+android.support.v4.widget.CursorFilter$CursorFilterClient
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout$AccessibilityDelegate
+android.support.v4.widget.DrawerLayout$DrawerListener
+android.support.v4.widget.DrawerLayout$LayoutParams
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState$1
+android.support.v4.widget.DrawerLayout$SimpleDrawerListener
+android.support.v4.widget.DrawerLayout$ViewDragCallback
+android.support.v4.widget.DrawerLayout$ViewDragCallback$1
+android.support.v4.widget.EdgeEffectCompat
+android.support.v4.widget.EdgeEffectCompat$BaseEdgeEffectImpl
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectIcsImpl
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectImpl
+android.support.v4.widget.EdgeEffectCompatIcs
+android.support.v4.widget.ExploreByTouchHelper
+android.support.v4.widget.ExploreByTouchHelper$1
+android.support.v4.widget.ExploreByTouchHelper$ExploreByTouchNodeProvider
+android.support.v4.widget.ListPopupWindowCompat
+android.support.v4.widget.ListPopupWindowCompat$BaseListPopupWindowImpl
+android.support.v4.widget.ListPopupWindowCompat$KitKatListPopupWindowImpl
+android.support.v4.widget.ListPopupWindowCompat$ListPopupWindowImpl
+android.support.v4.widget.ListPopupWindowCompatKitKat
+android.support.v4.widget.ListViewAutoScrollHelper
+android.support.v4.widget.PopupMenuCompat
+android.support.v4.widget.PopupMenuCompat$BasePopupMenuImpl
+android.support.v4.widget.PopupMenuCompat$KitKatPopupMenuImpl
+android.support.v4.widget.PopupMenuCompat$PopupMenuImpl
+android.support.v4.widget.PopupMenuCompatKitKat
+android.support.v4.widget.ResourceCursorAdapter
+android.support.v4.widget.ScrollerCompat
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImpl
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplBase
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplGingerbread
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplIcs
+android.support.v4.widget.ScrollerCompatGingerbread
+android.support.v4.widget.ScrollerCompatIcs
+android.support.v4.widget.SearchViewCompat
+android.support.v4.widget.SearchViewCompat$OnCloseListenerCompat
+android.support.v4.widget.SearchViewCompat$OnQueryTextListenerCompat
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl$1
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl$2
+android.support.v4.widget.SearchViewCompat$SearchViewCompatIcsImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatStubImpl
+android.support.v4.widget.SearchViewCompatHoneycomb
+android.support.v4.widget.SearchViewCompatHoneycomb$1
+android.support.v4.widget.SearchViewCompatHoneycomb$2
+android.support.v4.widget.SearchViewCompatHoneycomb$OnCloseListenerCompatBridge
+android.support.v4.widget.SearchViewCompatHoneycomb$OnQueryTextListenerCompatBridge
+android.support.v4.widget.SearchViewCompatIcs
+android.support.v4.widget.SearchViewCompatIcs$MySearchView
+android.support.v4.widget.SimpleCursorAdapter
+android.support.v4.widget.SimpleCursorAdapter$CursorToStringConverter
+android.support.v4.widget.SimpleCursorAdapter$ViewBinder
+android.support.v4.widget.SlidingPaneLayout
+android.support.v4.widget.SlidingPaneLayout$1
+android.support.v4.widget.SlidingPaneLayout$AccessibilityDelegate
+android.support.v4.widget.SlidingPaneLayout$DisableLayerRunnable
+android.support.v4.widget.SlidingPaneLayout$DragHelperCallback
+android.support.v4.widget.SlidingPaneLayout$LayoutParams
+android.support.v4.widget.SlidingPaneLayout$PanelSlideListener
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState$1
+android.support.v4.widget.SlidingPaneLayout$SimplePanelSlideListener
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImpl
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImplBase
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImplJB
+android.support.v4.widget.SlidingPaneLayout$SlidingPanelLayoutImplJBMR1
+android.support.v4.widget.ViewDragHelper
+android.support.v4.widget.ViewDragHelper$1
+android.support.v4.widget.ViewDragHelper$2
+android.support.v4.widget.ViewDragHelper$Callback
+android.util.Pools:
+    68:70:private Pools()
+com.android.gallery3d.common.BitmapUtils:
+    private static final java.lang.String TAG
+    private static final int DEFAULT_JPEG_QUALITY
+    public static final int UNCONSTRAINED
+    38:38:private BitmapUtils()
+    62:64:public static int computeSampleSize(int,int,int,int)
+    71:81:private static int computeInitialSampleSize(int,int,int,int)
+    89:92:public static int computeSampleSizeLarger(int,int,int)
+    109:111:public static int computeSampleSize(float)
+    141:146:public static android.graphics.Bitmap resizeDownBySideLength(android.graphics.Bitmap,int,boolean)
+    150:167:public static android.graphics.Bitmap resizeAndCropCenter(android.graphics.Bitmap,int,boolean)
+    171:177:public static void recycleSilently(android.graphics.Bitmap)
+    180:187:public static android.graphics.Bitmap rotateBitmap(android.graphics.Bitmap,int,boolean)
+    193:235:public static android.graphics.Bitmap createVideoThumbnail(java.lang.String)
+    239:239:public static byte[] compressToBytes(android.graphics.Bitmap)
+    243:245:public static byte[] compressToBytes(android.graphics.Bitmap,int)
+    249:251:public static boolean isSupportedByRegionDecoder(java.lang.String)
+    256:258:public static boolean isRotationSupported(java.lang.String)
+com.android.gallery3d.common.Utils:
+    private static final java.lang.String TAG
+    private static final java.lang.String DEBUG_TAG
+    private static final long POLY64REV
+    private static final long INITIALCRC
+    private static final java.lang.String MASK_STRING
+    32:32:public Utils()
+    59:59:public static varargs void fail(java.lang.String,java.lang.Object[])
+    65:66:public static java.lang.Object checkNotNull(java.lang.Object)
+    72:72:public static boolean equals(java.lang.Object,java.lang.Object)
+    107:109:public static float clamp(float,float,float)
+    114:116:public static long clamp(long,long,long)
+    120:120:public static boolean isOpaque(int)
+    124:127:public static void swap(int[],int,int)
+    136:139:public static final long crc64Long(java.lang.String)
+    156:160:public static final long crc64Long(byte[])
+    164:170:public static byte[] getBytes(java.lang.String)
+    183:183:public static int compare(long,long)
+    204:208:public static void closeSilently(android.os.ParcelFileDescriptor)
+    212:216:public static void closeSilently(android.database.Cursor)
+    223:228:public static float interpolateAngle(float,float,float)
+    233:233:public static float interpolateScale(float,float,float)
+    237:237:public static java.lang.String ensureNotNull(java.lang.String)
+    241:245:public static float parseFloatSafely(java.lang.String,float)
+    250:254:public static int parseIntSafely(java.lang.String,int)
+    259:259:public static boolean isNullOrEmpty(java.lang.String)
+    264:268:public static void waitWithoutInterrupt(java.lang.Object)
+    273:278:public static boolean handleInterrruptedException(java.lang.Throwable)
+    285:297:public static java.lang.String escapeXml(java.lang.String)
+    303:307:public static java.lang.String getUserAgent(android.content.Context)
+    320:323:public static java.lang.String[] copyOf(java.lang.String[],int)
+    330:333:public static java.lang.String maskDebugInfo(java.lang.Object)
+    338:339:public static varargs void debug(java.lang.String,java.lang.Object[])
+com.android.gallery3d.exif.ByteBufferInputStream
+com.android.gallery3d.exif.CountedDataInputStream:
+    120:122:public long readLong()
+    126:128:public java.lang.String readString(int)
+com.android.gallery3d.exif.ExifData:
+    private static final java.lang.String TAG
+    62:62:protected byte[] getCompressedThumbnail()
+    76:76:protected boolean hasCompressedThumbnail()
+    97:97:protected int getStripCount()
+    106:106:protected byte[] getStrip(int)
+    113:113:protected boolean hasUncompressedStrip()
+    120:120:protected java.nio.ByteOrder getByteOrder()
+    147:152:protected com.android.gallery3d.exif.IfdData getOrCreateIfdData(int)
+    169:173:protected com.android.gallery3d.exif.ExifTag addTag(com.android.gallery3d.exif.ExifTag)
+    181:185:protected com.android.gallery3d.exif.ExifTag addTag(com.android.gallery3d.exif.ExifTag,int)
+    189:191:protected void clearThumbnailAndStrips()
+    197:199:protected void removeThumbnailData()
+    205:210:protected void removeTag(short,int)
+    217:247:protected java.lang.String getUserComment()
+    256:270:protected java.util.List getAllTags()
+    278:293:protected java.util.List getAllTagsForIfd(int)
+    301:313:protected java.util.List getAllTagsForTagId(short)
+com.android.gallery3d.exif.ExifInterface:
+    public static final int TAG_NULL
+    public static final int IFD_NULL
+    public static final int DEFINITION_NULL
+    private static final java.lang.String NULL_ARGUMENT_STRING
+    private static final java.lang.String GPS_DATE_FORMAT_STR
+    private static final java.lang.String DATETIME_FORMAT_STR
+    725:726:public void readExif(byte[])
+    778:780:public void setExif(java.util.Collection)
+    786:787:public void clearExif()
+    799:805:public void writeExif(byte[],java.io.OutputStream)
+    817:823:public void writeExif(android.graphics.Bitmap,java.io.OutputStream)
+    835:841:public void writeExif(java.io.InputStream,java.io.OutputStream)
+    855:868:public void writeExif(byte[],java.lang.String)
+    882:895:public void writeExif(android.graphics.Bitmap,java.lang.String)
+    909:922:public void writeExif(java.io.InputStream,java.lang.String)
+    936:948:public void writeExif(java.lang.String,java.lang.String)
+    962:967:public java.io.OutputStream getExifWriterStream(java.io.OutputStream)
+    983:993:public java.io.OutputStream getExifWriterStream(java.lang.String)
+    1012:1052:public boolean rewriteExif(java.lang.String,java.util.Collection)
+    1069:1077:public boolean rewriteExif(java.nio.ByteBuffer,java.util.Collection)
+    1097:1120:public void forceRewriteExif(java.lang.String,java.util.Collection)
+    1133:1134:public void forceRewriteExif(java.lang.String)
+    1142:1142:public java.util.List getAllTags()
+    1155:1155:public java.util.List getTagsForTagId(short)
+    1168:1168:public java.util.List getTagsForIfdId(int)
+    1191:1192:public com.android.gallery3d.exif.ExifTag getTag(int)
+    1201:1202:public java.lang.Object getTagValue(int,int)
+    1214:1215:public java.lang.Object getTagValue(int)
+    1227:1231:public java.lang.String getTagStringValue(int,int)
+    1238:1239:public java.lang.String getTagStringValue(int)
+    1246:1250:public java.lang.Long getTagLongValue(int,int)
+    1257:1258:public java.lang.Long getTagLongValue(int)
+    1284:1288:public java.lang.Byte getTagByteValue(int,int)
+    1295:1296:public java.lang.Byte getTagByteValue(int)
+    1303:1307:public com.android.gallery3d.exif.Rational getTagRationalValue(int,int)
+    1314:1315:public com.android.gallery3d.exif.Rational getTagRationalValue(int)
+    1322:1326:public long[] getTagLongValues(int,int)
+    1333:1334:public long[] getTagLongValues(int)
+    1352:1353:public int[] getTagIntValues(int)
+    1360:1364:public byte[] getTagByteValues(int,int)
+    1371:1372:public byte[] getTagByteValues(int)
+    1379:1383:public com.android.gallery3d.exif.Rational[] getTagRationalValues(int,int)
+    1390:1391:public com.android.gallery3d.exif.Rational[] getTagRationalValues(int)
+    1401:1406:public boolean isTagCountDefined(int)
+    1417:1421:public int getDefinedTagCount(int)
+    1434:1438:public int getActualTagCount(int,int)
+    1464:1468:public short getDefinedTagType(int)
+    1498:1512:public com.android.gallery3d.exif.ExifTag buildTag(int,int,java.lang.Object)
+    1523:1524:public com.android.gallery3d.exif.ExifTag buildTag(int,java.lang.Object)
+    1528:1537:protected com.android.gallery3d.exif.ExifTag buildUninitializedTag(int)
+    1552:1556:public boolean setTagValue(int,int,java.lang.Object)
+    1569:1570:public boolean setTagValue(int,java.lang.Object)
+    1583:1583:public com.android.gallery3d.exif.ExifTag setTag(com.android.gallery3d.exif.ExifTag)
+    1594:1597:public void setTags(java.util.Collection)
+    1606:1607:public void deleteTag(int,int)
+    1615:1617:public void deleteTag(int)
+    1635:1673:public int setTagDefinition(short,int,short,short,int[])
+    1677:1677:protected int getTagDefinition(short,int)
+    1681:1695:protected int[] getTagDefinitionsForTagId(short)
+    1699:1702:protected int getTagDefinitionForTag(com.android.gallery3d.exif.ExifTag)
+    1706:1730:protected int getTagDefinitionForTag(short,short,int,int)
+    1739:1740:public void removeTagDefinition(int)
+    1746:1747:public void resetTagDefinitions()
+    1755:1761:public android.graphics.Bitmap getThumbnailBitmap()
+    1772:1777:public byte[] getThumbnailBytes()
+    1786:1786:public byte[] getThumbnail()
+    1795:1795:public boolean isThumbnailCompressed()
+    1805:1805:public boolean hasThumbnail()
+    1818:1820:public boolean setCompressedThumbnail(byte[])
+    1831:1835:public boolean setCompressedThumbnail(android.graphics.Bitmap)
+    1842:1843:public void removeCompressedThumbnail()
+    1852:1852:public java.lang.String getUserComment()
+    1861:1872:public static short getOrientationValueForRotation(int)
+    1911:1920:public static double convertLatOrLongToDouble(com.android.gallery3d.exif.Rational[],java.lang.String)
+    1933:1944:public double[] getLatLongAsDoubles()
+    1965:1976:public boolean addDateTimeStampTag(int,long,java.util.TimeZone)
+    1987:2002:public boolean addGpsTags(double,double)
+    2012:2027:public boolean addGpsDateTimeStampTag(long)
+    2032:2038:private static com.android.gallery3d.exif.Rational[] toExifLatLong(double)
+    2044:2050:private void doExifStreamIO(java.io.InputStream,java.io.OutputStream)
+    2351:2368:protected static int[] getAllowedIfdsFromInfo(int)
+    2400:2400:protected static short getTypeFromInfo(int)
+    2404:2404:protected static int getComponentCountFromInfo(int)
+com.android.gallery3d.exif.ExifInterface$ColorSpace
+com.android.gallery3d.exif.ExifInterface$ComponentsConfiguration
+com.android.gallery3d.exif.ExifInterface$Compression
+com.android.gallery3d.exif.ExifInterface$Contrast
+com.android.gallery3d.exif.ExifInterface$ExposureMode
+com.android.gallery3d.exif.ExifInterface$ExposureProgram
+com.android.gallery3d.exif.ExifInterface$FileSource
+com.android.gallery3d.exif.ExifInterface$Flash
+com.android.gallery3d.exif.ExifInterface$GainControl
+com.android.gallery3d.exif.ExifInterface$GpsAltitudeRef
+com.android.gallery3d.exif.ExifInterface$GpsDifferential
+com.android.gallery3d.exif.ExifInterface$GpsLatitudeRef
+com.android.gallery3d.exif.ExifInterface$GpsLongitudeRef
+com.android.gallery3d.exif.ExifInterface$GpsMeasureMode
+com.android.gallery3d.exif.ExifInterface$GpsSpeedRef
+com.android.gallery3d.exif.ExifInterface$GpsStatus
+com.android.gallery3d.exif.ExifInterface$GpsTrackRef
+com.android.gallery3d.exif.ExifInterface$LightSource
+com.android.gallery3d.exif.ExifInterface$MeteringMode
+com.android.gallery3d.exif.ExifInterface$Orientation
+com.android.gallery3d.exif.ExifInterface$PhotometricInterpretation
+com.android.gallery3d.exif.ExifInterface$PlanarConfiguration
+com.android.gallery3d.exif.ExifInterface$ResolutionUnit
+com.android.gallery3d.exif.ExifInterface$Saturation
+com.android.gallery3d.exif.ExifInterface$SceneCapture
+com.android.gallery3d.exif.ExifInterface$SceneType
+com.android.gallery3d.exif.ExifInterface$SensingMethod
+com.android.gallery3d.exif.ExifInterface$Sharpness
+com.android.gallery3d.exif.ExifInterface$SubjectDistance
+com.android.gallery3d.exif.ExifInterface$WhiteBalance
+com.android.gallery3d.exif.ExifInterface$YCbCrPositioning
+com.android.gallery3d.exif.ExifModifier
+com.android.gallery3d.exif.ExifModifier$TagOffset
+com.android.gallery3d.exif.ExifOutputStream
+com.android.gallery3d.exif.ExifParser:
+    private static final boolean LOGV
+    private static final java.lang.String TAG
+    public static final int EVENT_START_OF_IFD
+    public static final int EVENT_NEW_TAG
+    public static final int EVENT_VALUE_OF_REGISTERED_TAG
+    public static final int EVENT_COMPRESSED_IMAGE
+    public static final int EVENT_UNCOMPRESSED_STRIP
+    public static final int EVENT_END
+    public static final int OPTION_IFD_0
+    public static final int OPTION_IFD_1
+    public static final int OPTION_IFD_EXIF
+    public static final int OPTION_IFD_GPS
+    public static final int OPTION_IFD_INTEROPERABILITY
+    public static final int OPTION_THUMBNAIL
+    protected static final int EXIF_HEADER
+    protected static final short EXIF_HEADER_TAIL
+    protected static final short LITTLE_ENDIAN_TAG
+    protected static final short BIG_ENDIAN_TAG
+    protected static final short TIFF_HEADER_TAIL
+    protected static final int TAG_SIZE
+    protected static final int OFFSET_SIZE
+    protected static final int DEFAULT_IFD0_OFFSET
+    private int mStripCount
+    241:241:protected static com.android.gallery3d.exif.ExifParser parse(java.io.InputStream,int,com.android.gallery3d.exif.ExifInterface)
+    439:439:protected int getTagCountInCurrentIfd()
+    472:472:protected int getStripCount()
+    790:790:protected int getOffsetToExifEndFromSOF()
+    794:794:protected int getTiffStartPosition()
+    801:801:protected int read(byte[],int,int)
+com.android.gallery3d.exif.ExifReader:
+    private static final java.lang.String TAG
+com.android.gallery3d.exif.ExifTag:
+    public static final short TYPE_UNSIGNED_BYTE
+    public static final short TYPE_ASCII
+    public static final short TYPE_UNSIGNED_SHORT
+    public static final short TYPE_UNSIGNED_LONG
+    public static final short TYPE_UNSIGNED_RATIONAL
+    public static final short TYPE_UNDEFINED
+    public static final short TYPE_LONG
+    public static final short TYPE_RATIONAL
+    private static final int UNSIGNED_SHORT_MAX
+    private static final long UNSIGNED_LONG_MAX
+    private static final long LONG_MAX
+    private static final long LONG_MIN
+    static final int SIZE_UNDEFINED
+    271:271:public boolean setValue(int)
+    308:308:public boolean setValue(long)
+    395:395:public boolean setValue(com.android.gallery3d.exif.Rational)
+    442:442:public boolean setValue(byte)
+    458:513:public boolean setValue(java.lang.Object)
+    528:528:public boolean setTimeValue(long)
+    541:548:public java.lang.String getValueAsString()
+    560:564:public java.lang.String getValueAsString(java.lang.String)
+    575:578:public byte[] getValueAsBytes()
+    591:595:public byte getValueAsByte(byte)
+    606:609:public com.android.gallery3d.exif.Rational[] getValueAsRationals()
+    622:626:public com.android.gallery3d.exif.Rational getValueAsRational(com.android.gallery3d.exif.Rational)
+    640:641:public com.android.gallery3d.exif.Rational getValueAsRational(long)
+    675:679:public int getValueAsInt(int)
+    690:693:public long[] getValueAsLongs()
+    706:710:public long getValueAsLong(long)
+    717:717:public java.lang.Object getValue()
+    729:741:public long forceGetValueAsLong(long)
+    805:809:protected java.lang.String getString()
+    816:816:protected byte[] getStringByte()
+    826:830:protected com.android.gallery3d.exif.Rational getRational(int)
+    837:838:protected void getBytes(byte[])
+    851:857:protected void getBytes(byte[],int,int)
+com.android.gallery3d.exif.IfdData:
+    91:91:protected boolean checkCollision(short)
+    98:99:protected void removeTag(short)
+    112:113:protected void setOffsetToNextIfd(int)
+    119:119:protected int getOffsetToNextIfd()
+com.android.gallery3d.exif.IfdId
+com.android.gallery3d.exif.JpegHeader:
+    public static final short SOI
+    public static final short APP1
+    public static final short APP0
+    public static final short EOI
+    public static final short SOF0
+    public static final short SOF15
+    public static final short DHT
+    public static final short JPG
+    public static final short DAC
+    19:19:JpegHeader()
+com.android.gallery3d.exif.OrderedDataOutputStream
+com.android.gallery3d.exif.Rational:
+    42:45:public Rational(com.android.gallery3d.exif.Rational)
+    66:66:public double toDouble()
+com.android.gallery3d.glrenderer.BasicTexture:
+    private static final java.lang.String TAG
+    protected static final int UNSPECIFIED
+    protected static final int STATE_UNLOADED
+    protected static final int STATE_LOADED
+    protected static final int STATE_ERROR
+    private static final int MAX_TEXTURE_SIZE
+    138:139:public void draw(com.android.gallery3d.glrenderer.GLCanvas,int,int)
+    169:170:public void yield()
+    193:193:public static boolean inFinalizer()
+    197:202:public static void yieldAllTextures()
+com.android.gallery3d.glrenderer.BitmapTexture:
+    52:52:public android.graphics.Bitmap getBitmap()
+com.android.gallery3d.glrenderer.GLCanvas:
+    public static final int SAVE_FLAG_ALL
+    public static final int SAVE_FLAG_ALPHA
+    public static final int SAVE_FLAG_MATRIX
+    public abstract void setSize(int,int)
+    public abstract void clearBuffer()
+    public abstract void clearBuffer(float[])
+    public abstract void setAlpha(float)
+    public abstract float getAlpha()
+    public abstract void multiplyAlpha(float)
+    public abstract void translate(float,float,float)
+    public abstract void scale(float,float,float)
+    public abstract void multiplyMatrix(float[],int)
+    public abstract void save()
+    public abstract void drawLine(float,float,float,float,com.android.gallery3d.glrenderer.GLPaint)
+    public abstract void drawRect(float,float,float,float,com.android.gallery3d.glrenderer.GLPaint)
+    public abstract void fillRect(float,float,float,float,int)
+    public abstract void drawMesh(com.android.gallery3d.glrenderer.BasicTexture,int,int,int,int,int,int)
+    public abstract void drawTexture(com.android.gallery3d.glrenderer.BasicTexture,float[],int,int,int,int)
+    public abstract void drawMixed(com.android.gallery3d.glrenderer.BasicTexture,int,float,int,int,int,int)
+    public abstract void drawMixed(com.android.gallery3d.glrenderer.BasicTexture,int,float,android.graphics.RectF,android.graphics.RectF)
+    public abstract void deleteBuffer(int)
+    public abstract void deleteRecycledResources()
+    public abstract void dumpStatisticsAndClear()
+    public abstract void beginRenderTarget(com.android.gallery3d.glrenderer.RawTexture)
+    public abstract void endRenderTarget()
+    public abstract int uploadBuffer(java.nio.FloatBuffer)
+    public abstract int uploadBuffer(java.nio.ByteBuffer)
+    public abstract void recoverFromLightCycle()
+    public abstract void getBounds(android.graphics.Rect,int,int,int,int)
+com.android.gallery3d.glrenderer.GLES20Canvas:
+    private static final int FLOAT_SIZE
+    private static final float OPAQUE_ALPHA
+    private static final int COORDS_PER_VERTEX
+    private static final int VERTEX_STRIDE
+    private static final int COUNT_FILL_VERTEX
+    private static final int COUNT_LINE_VERTEX
+    private static final int COUNT_RECT_VERTEX
+    private static final int OFFSET_FILL_RECT
+    private static final int OFFSET_DRAW_LINE
+    private static final int OFFSET_DRAW_RECT
+    private static final java.lang.String POSITION_ATTRIBUTE
+    private static final java.lang.String COLOR_UNIFORM
+    private static final java.lang.String MATRIX_UNIFORM
+    private static final java.lang.String TEXTURE_MATRIX_UNIFORM
+    private static final java.lang.String TEXTURE_SAMPLER_UNIFORM
+    private static final java.lang.String ALPHA_UNIFORM
+    private static final java.lang.String TEXTURE_COORD_ATTRIBUTE
+    private static final java.lang.String DRAW_VERTEX_SHADER
+    private static final java.lang.String DRAW_FRAGMENT_SHADER
+    private static final java.lang.String TEXTURE_VERTEX_SHADER
+    private static final java.lang.String MESH_VERTEX_SHADER
+    private static final java.lang.String TEXTURE_FRAGMENT_SHADER
+    private static final java.lang.String OES_TEXTURE_FRAGMENT_SHADER
+    private static final int INITIAL_RESTORE_STATE_SIZE
+    private static final int MATRIX_SIZE
+    private static final int INDEX_POSITION
+    private static final int INDEX_MATRIX
+    private static final int INDEX_COLOR
+    private static final int INDEX_TEXTURE_MATRIX
+    private static final int INDEX_TEXTURE_SAMPLER
+    private static final int INDEX_ALPHA
+    private static final int INDEX_TEXTURE_COORD
+    371:375:public void clearBuffer(float[])
+    384:385:public void setAlpha(float)
+    389:390:public void multiplyAlpha(float)
+    394:395:public void translate(float,float,float)
+    430:435:public void multiplyMatrix(float[],int)
+    439:440:public void save()
+    480:483:public void drawLine(float,float,float,float,com.android.gallery3d.glrenderer.GLPaint)
+    487:489:public void drawRect(float,float,float,float,com.android.gallery3d.glrenderer.GLPaint)
+    493:494:private void draw(int,int,int,float,float,float,float,com.android.gallery3d.glrenderer.GLPaint)
+    498:500:private void draw(int,int,int,float,float,float,float,int,float)
+    503:520:private void prepareDraw(int,int,float)
+    523:531:private float[] getColor(int)
+    576:579:public void fillRect(float,float,float,float,int)
+    621:626:public void drawTexture(com.android.gallery3d.glrenderer.BasicTexture,float[],int,int,int,int)
+    718:755:public void drawMesh(com.android.gallery3d.glrenderer.BasicTexture,int,int,int,int,int,int)
+    759:762:public void drawMixed(com.android.gallery3d.glrenderer.BasicTexture,int,float,int,int,int,int)
+    766:783:public void drawMixed(com.android.gallery3d.glrenderer.BasicTexture,int,float,android.graphics.RectF,android.graphics.RectF)
+    798:801:public void deleteBuffer(int)
+    805:818:public void deleteRecycledResources()
+    822:829:public void dumpStatisticsAndClear()
+    833:837:public void endRenderTarget()
+    841:845:public void beginRenderTarget(com.android.gallery3d.glrenderer.RawTexture)
+    852:879:private void setRenderTarget(com.android.gallery3d.glrenderer.BasicTexture,com.android.gallery3d.glrenderer.RawTexture)
+    882:901:private static void checkFramebufferStatus()
+    948:948:public int uploadBuffer(java.nio.ByteBuffer)
+    973:982:private static void printMatrix(java.lang.String,float[],int)
+    986:990:public void recoverFromLightCycle()
+    994:1003:public void getBounds(android.graphics.Rect,int,int,int,int)
+com.android.gallery3d.glrenderer.GLES20IdImpl:
+    26:28:public void glDeleteTextures(javax.microedition.khronos.opengles.GL11,int,int[],int)
+    33:35:public void glDeleteBuffers(javax.microedition.khronos.opengles.GL11,int,int[],int)
+    39:41:public void glDeleteFramebuffers(javax.microedition.khronos.opengles.GL11ExtensionPack,int,int[],int)
+com.android.gallery3d.glrenderer.GLId:
+    public abstract void glDeleteTextures(javax.microedition.khronos.opengles.GL11,int,int[],int)
+    public abstract void glDeleteBuffers(javax.microedition.khronos.opengles.GL11,int,int[],int)
+    public abstract void glDeleteFramebuffers(javax.microedition.khronos.opengles.GL11ExtensionPack,int,int[],int)
+com.android.gallery3d.glrenderer.GLPaint
+com.android.gallery3d.glrenderer.RawTexture:
+    private static final java.lang.String TAG
+    29:32:public RawTexture(int,int,boolean)
+    45:46:public void setIsFlippedVertically(boolean)
+    49:55:protected void prepare(com.android.gallery3d.glrenderer.GLCanvas)
+    67:67:public void yield()
+com.android.gallery3d.glrenderer.Texture:
+    public abstract int getWidth()
+    public abstract int getHeight()
+    public abstract void draw(com.android.gallery3d.glrenderer.GLCanvas,int,int)
+    public abstract void draw(com.android.gallery3d.glrenderer.GLCanvas,int,int,int,int)
+com.android.gallery3d.glrenderer.UploadedTexture:
+    private static final java.lang.String TAG
+    private static final int UPLOAD_LIMIT
+    78:79:protected void setIsUploading(boolean)
+    82:82:public boolean isUploading()
+    115:116:protected void setThrottled(boolean)
+    203:204:public static void resetUploadLimit()
+    207:207:public static boolean uploadLimitReached()
+    285:286:public void setOpaque(boolean)
+com.android.gallery3d.util.IntArray:
+    private static final int INIT_CAPACITY
+    40:40:public int size()
+    45:49:public int[] toArray(int[])
+    53:53:public int[] getInternalArray()
+    57:59:public void clear()
+com.android.launcher3.AddAdapter
+com.android.launcher3.AddAdapter$ListItem
+com.android.launcher3.AllAppsList:
+    public static final int DEFAULT_APPLICATIONS_NUMBER
+    85:85:public int size()
+    89:89:public com.android.launcher3.AppInfo get(int)
+com.android.launcher3.AppFilter:
+    private static final boolean DBG
+    private static final java.lang.String TAG
+com.android.launcher3.AppInfo:
+    private static final java.lang.String TAG
+    static final int DOWNLOADED_FLAG
+    static final int UPDATED_SYSTEM_APP_FLAG
+    108:114:public AppInfo(com.android.launcher3.AppInfo)
+com.android.launcher3.AppWidgetResizeFrame:
+    public static final int LEFT
+    public static final int TOP
+    public static final int RIGHT
+    public static final int BOTTOM
+com.android.launcher3.AppsCustomizeCellLayout:
+    35:36:public void removeViewOnPageAt(int)
+    45:45:public android.view.View getChildOnPageAt(int)
+    50:50:public int indexOfChildOnPage(android.view.View)
+com.android.launcher3.AppsCustomizePagedView:
+    static final java.lang.String TAG
+    private static final boolean PERFORM_OVERSCROLL_ROTATION
+    private static final int sPageSleepDelay
+    static final int WIDGET_NO_CLEANUP_REQUIRED
+    static final int WIDGET_PRELOAD_PENDING
+    static final int WIDGET_BOUND
+    static final int WIDGET_INFLATED
+    static final int sLookBehindPageCount
+    static final int sLookAheadPageCount
+com.android.launcher3.AppsCustomizePagedView$ContentType:
+    1:1:public static com.android.launcher3.AppsCustomizePagedView$ContentType[] values()
+    1:1:public static com.android.launcher3.AppsCustomizePagedView$ContentType valueOf(java.lang.String)
+com.android.launcher3.AppsCustomizeTabHost:
+    static final java.lang.String LOG_TAG
+    private static final java.lang.String APPS_TAB_TAG
+    private static final java.lang.String WIDGETS_TAB_TAG
+com.android.launcher3.AsyncTaskPageData:
+    java.util.ArrayList sourceImages
+com.android.launcher3.AsyncTaskPageData$Type:
+    1:1:public static com.android.launcher3.AsyncTaskPageData$Type[] values()
+    1:1:public static com.android.launcher3.AsyncTaskPageData$Type valueOf(java.lang.String)
+com.android.launcher3.BubbleTextView:
+    static final float SHADOW_LARGE_RADIUS
+    static final float SHADOW_SMALL_RADIUS
+    static final float SHADOW_Y_OFFSET
+    static final int SHADOW_LARGE_COLOUR
+    static final int SHADOW_SMALL_COLOUR
+    static final float PADDING_H
+    static final float PADDING_V
+    374:374:public boolean isTextVisible()
+com.android.launcher3.BuildConfig
+com.android.launcher3.ButtonDropTarget:
+    protected android.widget.TextView mText
+    163:164:public void getLocationInDragLayer(int[])
+com.android.launcher3.CellLayout:
+    static final java.lang.String TAG
+    public static final int MODE_DRAG_OVER
+    public static final int MODE_ON_DROP
+    public static final int MODE_ON_DROP_EXTERNAL
+    public static final int MODE_ACCEPT_DROP
+    private static final boolean DESTRUCTIVE_REORDER
+    private static final boolean DEBUG_VISUALIZE_OCCUPIED
+    static final int LANDSCAPE
+    static final int PORTRAIT
+    private static final float REORDER_HINT_MAGNITUDE
+    private static final int REORDER_ANIMATION_DURATION
+    private static final int INVALID_DIRECTION
+    651:652:public void removeViewWithoutMarkingCells(android.view.View)
+    815:816:void pointToCellRounded(int,int,int[])
+    903:911:android.graphics.Rect getContentRect(android.graphics.Rect)
+    918:922:static void getMetrics(android.graphics.Rect,int,int,int,int)
+    1046:1046:public float getBackgroundAlphaMultiplier()
+    1168:1186:void estimateDropCell(int,int,int,int,int[])
+    2768:2768:boolean existsEmptyCell()
+    2799:2799:boolean findCellForSpanIgnoring(int[],int,int,android.view.View)
+    2992:2995:public int[] cellSpansToSize(int,int)
+    3068:3070:public void onMove(android.view.View,int,int,int,int)
+    3111:3114:public boolean isOccupied(int,int)
+com.android.launcher3.CellLayout$CellInfo:
+    long container
+com.android.launcher3.CellLayout$CellLayoutAnimationController
+com.android.launcher3.CellLayout$LayoutParams:
+    3223:3228:public CellLayout$LayoutParams(com.android.launcher3.CellLayout$LayoutParams)
+com.android.launcher3.CellLayout$ReorderHintAnimation:
+    private static final int DURATION
+com.android.launcher3.CellLayout$ViewCluster:
+    static final int LEFT
+    static final int TOP
+    static final int RIGHT
+    static final int BOTTOM
+com.android.launcher3.Cling:
+    static final java.lang.String FIRST_RUN_CLING_DISMISSED_KEY
+    static final java.lang.String WORKSPACE_CLING_DISMISSED_KEY
+    static final java.lang.String FOLDER_CLING_DISMISSED_KEY
+com.android.launcher3.DeferredHandler:
+    99:102:public void cancelRunnable(java.lang.Runnable)
+    117:120:public void cancel()
+com.android.launcher3.DeviceProfile:
+    private static final java.lang.String TAG
+com.android.launcher3.DragController:
+    private static final java.lang.String TAG
+    private static final int SCROLL_DELAY
+    private static final int RESCROLL_DELAY
+    private static final boolean PROFILE_DRAWING_DURING_DRAG
+    private static final int SCROLL_OUTSIDE_ZONE
+    private static final int SCROLL_WAITING_IN_ZONE
+    static final int SCROLL_NONE
+    static final int SCROLL_LEFT
+    static final int SCROLL_RIGHT
+    private static final float MAX_FLING_DEGREES
+    158:158:public boolean dragging()
+    259:290:android.graphics.Bitmap getViewBitmap(android.view.View)
+    735:736:public void removeDragListener(com.android.launcher3.DragController$DragListener)
+    781:781:com.android.launcher3.DragView getDragView()
+com.android.launcher3.DragLayer:
+    public static final int ANIMATION_END_DISAPPEAR
+    public static final int ANIMATION_END_FADE_OUT
+    public static final int ANIMATION_END_REMAIN_VISIBLE
+    461:461:public boolean hasResizeFrames()
+    465:465:public boolean isWidgetBeingResized()
+com.android.launcher3.DragView:
+    124:124:public float getOffsetY()
+    128:128:public int getDragRegionLeft()
+    136:136:public int getDragRegionWidth()
+    140:140:public int getDragRegionHeight()
+com.android.launcher3.DropTarget:
+    public static final java.lang.String TAG
+    public abstract void getLocationInDragLayer(int[])
+    public abstract int getLeft()
+    public abstract int getTop()
+com.android.launcher3.DynamicGrid:
+    private static final java.lang.String TAG
+com.android.launcher3.FastBitmapDrawable:
+    97:104:public void setBitmap(android.graphics.Bitmap)
+com.android.launcher3.FirstFrameAnimatorHelper:
+    private static final boolean DEBUG
+    private static final int MAX_DELAY
+    private static final int IDEAL_FRAME_DURATION
+    136:140:public void print(android.animation.ValueAnimator)
+com.android.launcher3.FocusHelper:
+    70:70:public FocusHelper()
+    135:272:static boolean handlePagedViewGridLayoutWidgetKeyEvent(com.android.launcher3.PagedViewWidget,int,android.view.KeyEvent)
+com.android.launcher3.FocusOnlyTabWidget:
+    59:74:public void setCurrentTabToFocusedTab()
+    76:77:public void superOnFocusChange(android.view.View,boolean)
+com.android.launcher3.Folder:
+    private static final java.lang.String TAG
+    static final int STATE_NONE
+    static final int STATE_SMALL
+    static final int STATE_ANIMATING
+    static final int STATE_OPEN
+    private static final int REORDER_ANIMATION_DURATION
+    private static final int REORDER_DELAY
+    private static final int ON_EXIT_CLOSE_DELAY
+    301:301:public android.graphics.drawable.Drawable getDragDrawable()
+    823:830:public void addItemLocationsInDatabase()
+    1213:1214:public void getLocationInDragLayer(int[])
+com.android.launcher3.FolderAutoScrollHelper:
+    private static final float MAX_SCROLL_VELOCITY
+com.android.launcher3.FolderIcon:
+    private static final int NUM_ITEMS_IN_PREVIEW
+    private static final int CONSUMPTION_ANIMATION_DURATION
+    private static final int DROP_IN_ANIMATION_DURATION
+    private static final int INITIAL_ITEM_ANIMATION_DURATION
+    private static final int FINAL_ITEM_ANIMATION_DURATION
+    private static final float INNER_RING_GROWTH_FACTOR
+    private static final float OUTER_RING_GROWTH_FACTOR
+    private static final float PERSPECTIVE_SHIFT_FACTOR
+    public static final boolean HAS_OUTER_RING
+    private static final float PERSPECTIVE_SCALE_FACTOR
+    122:125:public boolean isDropEnabled()
+    335:335:public void onDragOver(java.lang.Object)
+com.android.launcher3.FolderIcon$FolderRingAnimator:
+    277:279:public void getCell(int[])
+com.android.launcher3.FolderInfo:
+    88:91:void removeListener(com.android.launcher3.FolderInfo$FolderListener)
+com.android.launcher3.HideFromAccessibilityHelper:
+    36:39:public void setImportantForAccessibilityToNo(android.view.View,boolean)
+com.android.launcher3.HolographicImageView:
+    106:111:public void setHotwordState(boolean)
+com.android.launcher3.HolographicLinearLayout:
+    119:124:public void setHotwordState(boolean)
+com.android.launcher3.HolographicOutlineHelper:
+    private static final int THICK
+    private static final int MEDIUM
+    private static final int EXTRA_THICK
+    84:85:public static float highlightAlphaInterpolator(float)
+    92:96:public static float viewAlphaInterpolator(float)
+    215:216:void applyThickExpensiveOutlineWithBlur(android.graphics.Bitmap,android.graphics.Canvas,int,int)
+com.android.launcher3.Hotseat:
+    private static final java.lang.String TAG
+    192:219:void addAllAppsFolder(com.android.launcher3.IconCache,java.util.ArrayList,java.util.ArrayList,com.android.launcher3.Launcher,com.android.launcher3.Workspace)
+    222:238:void addAppsToAllAppsFolder(java.util.ArrayList)
+com.android.launcher3.IconCache:
+    private static final java.lang.String TAG
+    private static final int INITIAL_ICON_CACHE_CAPACITY
+    237:237:public java.util.HashMap getAllIcons()
+com.android.launcher3.InstallShortcutReceiver:
+    private static final java.lang.String TAG
+    private static final boolean DBG
+    public static final java.lang.String ACTION_INSTALL_SHORTCUT
+    public static final java.lang.String DATA_INTENT_KEY
+    public static final java.lang.String LAUNCH_INTENT_KEY
+    public static final java.lang.String NAME_KEY
+    public static final java.lang.String ICON_KEY
+    public static final java.lang.String ICON_RESOURCE_NAME_KEY
+    public static final java.lang.String ICON_RESOURCE_PACKAGE_NAME_KEY
+    public static final java.lang.String APPS_PENDING_INSTALL
+    public static final int NEW_SHORTCUT_BOUNCE_DURATION
+    public static final int NEW_SHORTCUT_STAGGER_DELAY
+    private static final int INSTALL_SHORTCUT_SUCCESSFUL
+    private static final int INSTALL_SHORTCUT_IS_DUPLICATE
+    public static final java.lang.String SHORTCUT_MIMETYPE
+com.android.launcher3.InstallWidgetReceiver
+com.android.launcher3.InstallWidgetReceiver$WidgetListAdapter
+com.android.launcher3.InstallWidgetReceiver$WidgetMimeTypeHandlerData
+com.android.launcher3.InterruptibleInOutAnimator:
+    private static final int STOPPED
+    private static final int IN
+    private static final int OUT
+    90:92:public void end()
+    98:98:public boolean isStopped()
+com.android.launcher3.ItemInfo:
+    static final int NO_ID
+com.android.launcher3.Launcher:
+    static final java.lang.String TAG
+    static final boolean LOGD
+    static final boolean PROFILE_STARTUP
+    static final boolean DEBUG_WIDGETS
+    static final boolean DEBUG_STRICT_MODE
+    static final boolean DEBUG_RESUME_TIME
+    static final boolean DEBUG_DUMP_LOG
+    private static final int REQUEST_CREATE_SHORTCUT
+    private static final int REQUEST_CREATE_APPWIDGET
+    private static final int REQUEST_PICK_APPLICATION
+    private static final int REQUEST_PICK_SHORTCUT
+    private static final int REQUEST_PICK_APPWIDGET
+    private static final int REQUEST_PICK_WALLPAPER
+    private static final int REQUEST_BIND_APPWIDGET
+    protected static final int REQUEST_LAST
+    static final java.lang.String EXTRA_SHORTCUT_DUPLICATE
+    static final int SCREEN_COUNT
+    static final int DEFAULT_SCREEN
+    private static final java.lang.String PREFERENCES
+    static final java.lang.String FORCE_ENABLE_ROTATION_PROPERTY
+    static final java.lang.String DUMP_STATE_PROPERTY
+    static final java.lang.String INTENT_EXTRA_IGNORE_LAUNCH_ANIMATION
+    private static final java.lang.String RUNTIME_STATE_CURRENT_SCREEN
+    private static final java.lang.String RUNTIME_STATE
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_CONTAINER
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_SCREEN
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_CELL_X
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_CELL_Y
+    private static final java.lang.String RUNTIME_STATE_PENDING_FOLDER_RENAME
+    private static final java.lang.String RUNTIME_STATE_PENDING_FOLDER_RENAME_ID
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_SPAN_X
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_SPAN_Y
+    private static final java.lang.String RUNTIME_STATE_PENDING_ADD_WIDGET_INFO
+    private static final java.lang.String TOOLBAR_ICON_METADATA_NAME
+    private static final java.lang.String TOOLBAR_SEARCH_ICON_METADATA_NAME
+    private static final java.lang.String TOOLBAR_VOICE_SEARCH_ICON_METADATA_NAME
+    public static final java.lang.String SHOW_WEIGHT_WATCHER
+    public static final boolean SHOW_WEIGHT_WATCHER_DEFAULT
+    static final int APPWIDGET_HOST_ID
+    private static final int EXIT_SPRINGLOADED_MODE_SHORT_TIMEOUT
+    private static final int EXIT_SPRINGLOADED_MODE_LONG_TIMEOUT
+    private static final int SHOW_CLING_DURATION
+    private static final int DISMISS_CLING_DURATION
+    private static final boolean DISABLE_CLINGS
+    private static final boolean DISABLE_CUSTOM_CLINGS
+    private static final boolean DISABLE_MARKET_BUTTON
+    static final java.lang.String CORRUPTION_EMAIL_SENT_KEY
+    537:550:protected void invalidateHasCustomContentToLeft()
+    688:688:public android.view.LayoutInflater getInflater()
+    703:703:static int getScreen()
+    1059:1060:public com.android.launcher3.Launcher$QSBScroller addToCustomContentPage(android.view.View,com.android.launcher3.Launcher$CustomContentCallbacks,java.lang.String)
+    1065:1065:public int getTopOffsetForCustomContent()
+    1437:1437:static int[] getSpanForWidget(android.content.Context,com.android.launcher3.PendingAddWidgetInfo)
+    1441:1441:static int[] getMinSpanForWidget(android.content.Context,com.android.launcher3.PendingAddWidgetInfo)
+    2019:2021:protected void moveToCustomContentScreen(boolean)
+    2134:2135:void processWallpaper(android.content.Intent)
+    2379:2380:public void onTouchDownAllAppsButton(android.view.View)
+    2385:2386:public void performHapticFeedbackOnTouchDown(android.view.View)
+    2807:2813:void updateWallpaperVisibility(boolean)
+    3107:3108:protected void showWorkspace()
+    3221:3221:void unlockAllApps()
+    3246:3259:void hideHotseat(boolean)
+    3266:3269:void addExternalItemToScreen(com.android.launcher3.ItemInfo,com.android.launcher3.CellLayout)
+    3311:3331:private android.graphics.drawable.Drawable$ConstantState updateTextButtonWithIconFromExternalActivity(int,android.content.ComponentName,int,java.lang.String)
+    3357:3359:private void updateTextButtonWithDrawable(int,android.graphics.drawable.Drawable)
+    3499:3500:public void disableVoiceButtonProxy(boolean)
+    3528:3528:private void updateAppMarketIcon()
+    3542:3542:private void updateAppMarketIcon(android.graphics.drawable.Drawable$ConstantState)
+    4410:4410:protected android.content.SharedPreferences getSharedPrefs()
+    4500:4500:public static void dumpDebugLogsToConsole()
+com.android.launcher3.Launcher$2:
+    1025:1031:public void setScrollY(int)
+com.android.launcher3.Launcher$QSBScroller:
+    public abstract void setScrollY(int)
+com.android.launcher3.Launcher$State:
+    1:1:public static com.android.launcher3.Launcher$State valueOf(java.lang.String)
+com.android.launcher3.LauncherAnimUtils:
+    29:29:public LauncherAnimUtils()
+com.android.launcher3.LauncherAppState:
+    private static final java.lang.String TAG
+    private static final java.lang.String SHARED_PREFERENCES_KEY
+    67:67:public static com.android.launcher3.LauncherAppState getInstanceNoCreate()
+com.android.launcher3.LauncherAppWidgetInfo:
+    static final int NO_ID
+com.android.launcher3.LauncherApplication:
+    49:49:public static java.lang.String getLanguage()
+com.android.launcher3.LauncherModel:
+    static final boolean DEBUG_LOADERS
+    static final java.lang.String TAG
+    public static final boolean UPGRADE_USE_MORE_APPS_FOLDER
+    private static final int ITEMS_CHUNK
+    private static final int MAIN_THREAD_NORMAL_RUNNABLE
+    private static final int MAIN_THREAD_BINDING_RUNNABLE
+    1242:1242:public boolean isAllAppsLoaded()
+    2918:2924:com.android.launcher3.ShortcutInfo addShortcut(android.content.Context,android.content.Intent,long,int,int,int,boolean)
+    2933:2939:android.appwidget.AppWidgetProviderInfo findAppWidgetProviderInfoWithComponent(android.content.Context,android.content.ComponentName)
+    2946:2977:java.util.List resolveWidgetsForMimeType(android.content.Context,java.lang.String)
+    3111:3112:public static final java.util.Comparator getWidgetNameComparator()
+com.android.launcher3.LauncherModel$15
+com.android.launcher3.LauncherModel$Callbacks:
+    public abstract void bindAddScreens(java.util.ArrayList)
+com.android.launcher3.LauncherModel$PackageUpdatedTask:
+    public static final int OP_NONE
+    public static final int OP_ADD
+    public static final int OP_UPDATE
+    public static final int OP_REMOVE
+    public static final int OP_UNAVAILABLE
+com.android.launcher3.LauncherModel$ShortcutNameComparator:
+    3129:3133:LauncherModel$ShortcutNameComparator(android.content.pm.PackageManager)
+com.android.launcher3.LauncherProvider:
+    private static final java.lang.String TAG
+    private static final boolean LOGD
+    private static final java.lang.String DATABASE_NAME
+    private static final int DATABASE_VERSION
+    static final java.lang.String OLD_AUTHORITY
+    static final java.lang.String AUTHORITY
+    static final java.lang.String TABLE_FAVORITES
+    static final java.lang.String TABLE_WORKSPACE_SCREENS
+    static final java.lang.String PARAMETER_NOTIFY
+    static final java.lang.String UPGRADED_FROM_OLD_DATABASE
+    static final java.lang.String EMPTY_DATABASE_CREATED
+    static final java.lang.String DEFAULT_WORKSPACE_RESOURCE_ID
+    private static final java.lang.String ACTION_APPWIDGET_DEFAULT_WORKSPACE_CONFIGURE
+com.android.launcher3.LauncherProvider$DatabaseHelper:
+    private static final java.lang.String TAG_FAVORITES
+    private static final java.lang.String TAG_FAVORITE
+    private static final java.lang.String TAG_CLOCK
+    private static final java.lang.String TAG_SEARCH
+    private static final java.lang.String TAG_APPWIDGET
+    private static final java.lang.String TAG_SHORTCUT
+    private static final java.lang.String TAG_FOLDER
+    private static final java.lang.String TAG_EXTRA
+    private static final java.lang.String TAG_INCLUDE
+com.android.launcher3.LauncherSettings:
+    25:25:LauncherSettings()
+com.android.launcher3.LauncherSettings$BaseLauncherColumns:
+    public static final java.lang.String TITLE
+    public static final java.lang.String INTENT
+    public static final java.lang.String ITEM_TYPE
+    public static final int ITEM_TYPE_APPLICATION
+    public static final int ITEM_TYPE_SHORTCUT
+    public static final java.lang.String ICON_TYPE
+    public static final int ICON_TYPE_RESOURCE
+    public static final int ICON_TYPE_BITMAP
+    public static final java.lang.String ICON_PACKAGE
+    public static final java.lang.String ICON_RESOURCE
+    public static final java.lang.String ICON
+com.android.launcher3.LauncherSettings$ChangeLogColumns:
+    public static final java.lang.String MODIFIED
+com.android.launcher3.LauncherSettings$Favorites:
+    static final java.lang.String CONTAINER
+    static final int CONTAINER_DESKTOP
+    static final int CONTAINER_HOTSEAT
+    static final java.lang.String SCREEN
+    static final java.lang.String CELLX
+    static final java.lang.String CELLY
+    static final java.lang.String SPANX
+    static final java.lang.String SPANY
+    static final int ITEM_TYPE_FOLDER
+    static final int ITEM_TYPE_LIVE_FOLDER
+    static final int ITEM_TYPE_APPWIDGET
+    static final int ITEM_TYPE_WIDGET_CLOCK
+    static final int ITEM_TYPE_WIDGET_SEARCH
+    static final int ITEM_TYPE_WIDGET_PHOTO_FRAME
+    static final java.lang.String APPWIDGET_ID
+    public static final java.lang.String APPWIDGET_PROVIDER
+    static final java.lang.String IS_SHORTCUT
+    static final java.lang.String URI
+    static final java.lang.String DISPLAY_MODE
+    125:125:LauncherSettings$Favorites()
+com.android.launcher3.LauncherSettings$WorkspaceScreens:
+    static final java.lang.String SCREEN_RANK
+    107:107:LauncherSettings$WorkspaceScreens()
+com.android.launcher3.LauncherViewPropertyAnimator:
+    236:238:public com.android.launcher3.LauncherViewPropertyAnimator translationX(float)
+    260:262:public com.android.launcher3.LauncherViewPropertyAnimator rotationY(float)
+    272:273:public com.android.launcher3.LauncherViewPropertyAnimator withLayer()
+com.android.launcher3.LauncherViewPropertyAnimator$Properties:
+    1:1:public static com.android.launcher3.LauncherViewPropertyAnimator$Properties[] values()
+    1:1:public static com.android.launcher3.LauncherViewPropertyAnimator$Properties valueOf(java.lang.String)
+com.android.launcher3.LiveWallpaperListAdapter:
+    private static final java.lang.String LOG_TAG
+com.android.launcher3.Manifest
+com.android.launcher3.Manifest$permission
+com.android.launcher3.MemoryTracker:
+    public static final java.lang.String ACTION_START_TRACKING
+    private static final long UPDATE_RATE
+    private static final int MSG_START
+    private static final int MSG_STOP
+    private static final int MSG_UPDATE
+com.android.launcher3.Page:
+    public abstract android.view.View getChildOnPageAt(int)
+    public abstract void removeViewOnPageAt(int)
+    public abstract int indexOfChildOnPage(android.view.View)
+com.android.launcher3.PageIndicator:
+    private static final java.lang.String TAG
+    private static final boolean MODULATE_ALPHA_ENABLED
+    214:227:void dumpState(java.lang.String)
+com.android.launcher3.PageIndicatorMarker:
+    private static final java.lang.String TAG
+    private static final int MARKER_FADE_DURATION
+    106:106:boolean isActive()
+com.android.launcher3.PagedView:
+    private static final java.lang.String TAG
+    private static final boolean DEBUG
+    protected static final int INVALID_PAGE
+    private static final int MIN_LENGTH_FOR_FLING
+    protected static final int PAGE_SNAP_ANIMATION_DURATION
+    protected static final int SLOW_PAGE_SNAP_ANIMATION_DURATION
+    protected static final float NANOTIME_DIV
+    private static final float OVERSCROLL_ACCELERATE_FACTOR
+    private static final float OVERSCROLL_DAMP_FACTOR
+    private static final float RETURN_TO_ORIGINAL_PAGE_THRESHOLD
+    private static final float SIGNIFICANT_MOVE_THRESHOLD
+    private static final int FLING_THRESHOLD_VELOCITY
+    private static final int MIN_SNAP_VELOCITY
+    private static final int MIN_FLING_VELOCITY
+    private static final boolean DISABLE_TOUCH_INTERACTION
+    private static final boolean DISABLE_TOUCH_SIDE_PAGES
+    private static final boolean DISABLE_FLING_TO_DELETE
+    public static final int INVALID_RESTORE_PAGE
+    static final int AUTOMATIC_PAGE_SPACING
+    protected static final int TOUCH_STATE_REST
+    protected static final int TOUCH_STATE_SCROLLING
+    protected static final int TOUCH_STATE_PREV_PAGE
+    protected static final int TOUCH_STATE_NEXT_PAGE
+    protected static final int TOUCH_STATE_REORDERING
+    protected static final float ALPHA_QUANTIZE_LEVEL
+    protected static final int INVALID_POINTER
+    protected android.animation.AnimatorSet mZoomInOutAnim
+    private static final int ANIM_TAG_KEY
+    378:379:void setDeleteDropTarget(android.view.View)
+    455:459:public void setPageSwitchListener(com.android.launcher3.PagedView$PageSwitchListener)
+    741:741:protected boolean shouldSetTopAlignedPivotForWidget(int)
+    1307:1312:protected boolean hitsPreviousPage(float,float)
+    1319:1323:protected boolean hitsNextPage(float,float)
+    1504:1509:protected float getBoundedScrollProgress(int,android.view.View,int)
+    1608:1610:protected float maxOverScroll()
+    1972:1972:public void onFlingToDelete(android.view.View)
+    2068:2076:int getPageNearestToPoint(float)
+    2258:2259:public void setAllowLongPress(boolean)
+    2509:2523:private android.graphics.PointF isFlingingToDelete()
+    2655:2705:public void onFlingToDelete(android.graphics.PointF)
+    250:250:static synthetic int access$6(com.android.launcher3.PagedView)
+com.android.launcher3.PagedView$6
+com.android.launcher3.PagedView$7
+com.android.launcher3.PagedView$FlingAlongVectorAnimatorUpdateListener
+com.android.launcher3.PagedView$LayoutParams:
+    755:756:public PagedView$LayoutParams(android.view.ViewGroup$LayoutParams)
+com.android.launcher3.PagedView$SavedState
+com.android.launcher3.PagedView$SavedState$1
+com.android.launcher3.PagedViewCellLayout:
+    static final java.lang.String TAG
+    76:76:public int getCellWidth()
+    80:80:public int getCellHeight()
+    97:113:public boolean addViewToCellLayout(android.view.View,int,int,com.android.launcher3.PagedViewCellLayout$LayoutParams)
+    124:125:public void removeViewOnPageAt(int)
+    131:135:public void resetChildrenOnKeyListeners()
+    143:143:public com.android.launcher3.PagedViewCellLayoutChildren getChildrenLayout()
+    153:153:public int indexOfChildOnPage(android.view.View)
+    219:219:int getContentWidth()
+    223:226:int getContentHeight()
+    230:233:int getWidthBeforeFirstLayout()
+    265:266:public void enableCenteredContent(boolean)
+    274:277:public void setCellCount(int,int)
+    280:283:public void setGap(int,int)
+    288:294:public int[] getCellCountForDimensions(int,int)
+    303:305:void onDragChild(android.view.View)
+    313:319:public int estimateCellHSpan(int)
+    328:334:public int estimateCellVSpan(int)
+    346:349:public void calculateCellCount(int,int,int,int)
+com.android.launcher3.PagedViewCellLayout$LayoutParams:
+    public boolean isDragging
+    private java.lang.Object mTag
+    441:446:public PagedViewCellLayout$LayoutParams(com.android.launcher3.PagedViewCellLayout$LayoutParams)
+    449:454:public PagedViewCellLayout$LayoutParams(int,int,int,int)
+    480:480:public java.lang.Object getTag()
+    484:485:public void setTag(java.lang.Object)
+com.android.launcher3.PagedViewCellLayoutChildren:
+    static final java.lang.String TAG
+    146:147:public void enableCenteredContent(boolean)
+com.android.launcher3.PagedViewGridLayout:
+    static final java.lang.String TAG
+    110:111:public void removeViewOnPageAt(int)
+    125:125:public int indexOfChildOnPage(android.view.View)
+com.android.launcher3.PagedViewGridLayout$LayoutParams
+com.android.launcher3.PagedViewIcon:
+    private static final java.lang.String TAG
+    private static final float PRESS_ALPHA
+com.android.launcher3.PagedViewIconCache
+com.android.launcher3.PagedViewIconCache$Key
+com.android.launcher3.PagedViewIconCache$Key$Type
+com.android.launcher3.PagedViewWidget:
+    static final java.lang.String TAG
+com.android.launcher3.PreloadReceiver:
+    private static final java.lang.String TAG
+    private static final boolean LOGD
+    public static final java.lang.String EXTRA_WORKSPACE_NAME
+com.android.launcher3.R:
+    10:10:public R()
+com.android.launcher3.R$anim
+com.android.launcher3.R$array
+com.android.launcher3.R$attr
+com.android.launcher3.R$bool
+com.android.launcher3.R$color
+com.android.launcher3.R$dimen
+com.android.launcher3.R$drawable
+com.android.launcher3.R$id
+com.android.launcher3.R$integer
+com.android.launcher3.R$layout
+com.android.launcher3.R$menu
+com.android.launcher3.R$mipmap
+com.android.launcher3.R$plurals
+com.android.launcher3.R$string
+com.android.launcher3.R$style
+com.android.launcher3.R$styleable:
+    public static final int AppsCustomizePagedView_clingFocusedX
+    public static final int AppsCustomizePagedView_clingFocusedY
+    public static final int AppsCustomizePagedView_maxAppCellCountX
+    public static final int AppsCustomizePagedView_maxAppCellCountY
+    public static final int AppsCustomizePagedView_widgetCellHeightGap
+    public static final int AppsCustomizePagedView_widgetCellWidthGap
+    public static final int AppsCustomizePagedView_widgetCountX
+    public static final int AppsCustomizePagedView_widgetCountY
+    public static final int CellLayout_cellHeight
+    public static final int CellLayout_cellWidth
+    public static final int CellLayout_heightGap
+    public static final int CellLayout_maxGap
+    public static final int CellLayout_widthGap
+    public static final int Cling_drawIdentifier
+    public static final int DrawableStateProxyView_sourceViewId
+    public static final int Extra_key
+    public static final int Extra_value
+    public static final int Favorite_className
+    public static final int Favorite_container
+    public static final int Favorite_icon
+    public static final int Favorite_packageName
+    public static final int Favorite_screen
+    public static final int Favorite_spanX
+    public static final int Favorite_spanY
+    public static final int Favorite_title
+    public static final int Favorite_uri
+    public static final int Favorite_x
+    public static final int Favorite_y
+    public static final int HolographicLinearLayout_sourceImageViewId
+    public static final int HolographicLinearLayout_stateHotwordOn
+    public static final int Hotseat_cellCountX
+    public static final int Hotseat_cellCountY
+    public static final int Include_workspace
+    public static final int PageIndicator_windowSize
+    public static final int PagedView_pageIndicator
+    public static final int PagedView_pageLayoutHeightGap
+    public static final int PagedView_pageLayoutPaddingBottom
+    public static final int PagedView_pageLayoutPaddingLeft
+    public static final int PagedView_pageLayoutPaddingRight
+    public static final int PagedView_pageLayoutPaddingTop
+    public static final int PagedView_pageLayoutWidthGap
+    public static final int PagedView_pageSpacing
+    public static final int StrokedTextView_strokeColor
+    public static final int StrokedTextView_strokeTextColor
+    public static final int StrokedTextView_strokeWidth
+    public static final int Workspace_cellCountX
+    public static final int Workspace_cellCountY
+    public static final int Workspace_defaultScreen
+    1335:1335:public R$styleable()
+com.android.launcher3.R$xml
+com.android.launcher3.RampUpScroller
+com.android.launcher3.SavedWallpaperImages$ImageDb:
+    static final int DB_VERSION
+    static final java.lang.String DB_NAME
+    static final java.lang.String TABLE_NAME
+    static final java.lang.String COLUMN_ID
+    static final java.lang.String COLUMN_IMAGE_THUMBNAIL_FILENAME
+    static final java.lang.String COLUMN_IMAGE_FILENAME
+com.android.launcher3.SearchDropTargetBar:
+    private static final int sTransitionInDuration
+    private static final int sTransitionOutDuration
+    180:180:public int getTransitionOutDuration()
+com.android.launcher3.ShortcutAndWidgetContainer:
+    static final java.lang.String TAG
+com.android.launcher3.ShortcutInfo:
+    76:88:public ShortcutInfo(android.content.Context,com.android.launcher3.ShortcutInfo)
+    188:193:public static void dumpShortcutInfoList(java.lang.String,java.lang.String,java.util.ArrayList)
+com.android.launcher3.SmoothPagedView:
+    private static final float SMOOTHING_SPEED
+    static final int DEFAULT_MODE
+    static final int X_LARGE_MODE
+com.android.launcher3.SmoothPagedView$OvershootInterpolator:
+    private static final float DEFAULT_TENSION
+com.android.launcher3.Stats:
+    private static final boolean DEBUG_BROADCASTS
+    private static final java.lang.String TAG
+    private static final boolean LOCAL_LAUNCH_LOG
+    public static final java.lang.String ACTION_LAUNCH
+    public static final java.lang.String PERM_LAUNCH
+    public static final java.lang.String EXTRA_INTENT
+    public static final java.lang.String EXTRA_CONTAINER
+    public static final java.lang.String EXTRA_SCREEN
+    public static final java.lang.String EXTRA_CELLX
+    public static final java.lang.String EXTRA_CELLY
+    private static final java.lang.String LOG_FILE_NAME
+    private static final int LOG_VERSION
+    private static final int LOG_TAG_VERSION
+    private static final int LOG_TAG_LAUNCH
+    private static final java.lang.String STATS_FILE_NAME
+    private static final int STATS_VERSION
+    private static final int INITIAL_STATS_SIZE
+    private static final boolean FLUSH_IMMEDIATELY
+com.android.launcher3.ThirdPartyWallpaperPickerListAdapter:
+    private static final java.lang.String LOG_TAG
+com.android.launcher3.UninstallShortcutReceiver:
+    private static final java.lang.String ACTION_UNINSTALL_SHORTCUT
+com.android.launcher3.Utilities:
+    private static final java.lang.String TAG
+    49:49:Utilities()
+com.android.launcher3.WallpaperCropActivity:
+    private static final java.lang.String LOGTAG
+    protected static final java.lang.String WALLPAPER_WIDTH_KEY
+    protected static final java.lang.String WALLPAPER_HEIGHT_KEY
+    private static final int DEFAULT_COMPRESS_QUALITY
+    public static final int MAX_BMAP_IN_INTENT
+    private static final float WALLPAPER_SCREENS_SPAN
+    protected android.net.Uri mUri
+com.android.launcher3.WallpaperPickerActivity:
+    static final java.lang.String TAG
+    public static final int IMAGE_PICK
+    public static final int PICK_WALLPAPER_THIRD_PARTY_ACTIVITY
+    public static final int PICK_LIVE_WALLPAPER
+    private static final java.lang.String TEMP_WALLPAPER_TILES
+com.android.launcher3.WeightWatcher:
+    private static final int RAM_GRAPH_RSS_COLOR
+    private static final int RAM_GRAPH_PSS_COLOR
+    private static final int TEXT_COLOR
+    private static final int BACKGROUND_COLOR
+    private static final int UPDATE_RATE
+    private static final int MSG_START
+    private static final int MSG_STOP
+    private static final int MSG_UPDATE
+com.android.launcher3.WidgetPreviewLoader:
+    static final java.lang.String TAG
+    private static final java.lang.String WIDGET_PREFIX
+    private static final java.lang.String SHORTCUT_PREFIX
+com.android.launcher3.WidgetPreviewLoader$CacheDb:
+    static final int DB_VERSION
+    static final java.lang.String DB_NAME
+    static final java.lang.String TABLE_NAME
+    static final java.lang.String COLUMN_NAME
+    static final java.lang.String COLUMN_SIZE
+    static final java.lang.String COLUMN_PREVIEW_BITMAP
+com.android.launcher3.Workspace:
+    private static final java.lang.String TAG
+    private static final float WORKSPACE_OVERSCROLL_ROTATION
+    private static final int CHILDREN_OUTLINE_FADE_OUT_DELAY
+    private static final int CHILDREN_OUTLINE_FADE_OUT_DURATION
+    private static final int CHILDREN_OUTLINE_FADE_IN_DURATION
+    private static final int BACKGROUND_FADE_OUT_DURATION
+    private static final int ADJACENT_SCREEN_DROP_DURATION
+    private static final int FLING_THRESHOLD_VELOCITY
+    private static final float ALPHA_CUTOFF_THRESHOLD
+    private static final long CUSTOM_CONTENT_GESTURE_DELAY
+    private static final long EXTRA_EMPTY_SCREEN_ID
+    private static final long CUSTOM_CONTENT_SCREEN_ID
+    public static final int DRAG_BITMAP_PADDING
+    private static final int FOLDER_CREATION_TIMEOUT
+    private static final int REORDER_TIMEOUT
+    static final float START_DAMPING_TOUCH_SLOP_ANGLE
+    static final float MAX_SWIPE_ANGLE
+    static final float TOUCH_SLOP_DAMPING_FACTOR
+    public static final int ANIMATE_INTO_POSITION_AND_DISAPPEAR
+    public static final int ANIMATE_INTO_POSITION_AND_REMAIN
+    public static final int ANIMATE_INTO_POSITION_AND_RESIZE
+    public static final int COMPLETE_TWO_STAGE_WIDGET_DROP_ANIMATION
+    public static final int CANCEL_TWO_STAGE_WIDGET_DROP_ANIMATION
+    private static final int DRAG_MODE_NONE
+    private static final int DRAG_MODE_CREATE_FOLDER
+    private static final int DRAG_MODE_ADD_TO_FOLDER
+    private static final int DRAG_MODE_REORDER
+    605:624:public void addToCustomContentPage(android.view.View,com.android.launcher3.Launcher$CustomContentCallbacks,java.lang.String)
+    721:721:java.util.ArrayList getScreenOrder()
+    1328:1329:void disableBackground()
+    1331:1332:void enableBackground()
+    1593:1593:boolean isDrawingBackgroundGradient()
+    2893:2903:public void getViewLocationRelativeToSelf(android.view.View,int[])
+    3471:3476:public boolean addExternalItemToScreen(com.android.launcher3.ItemInfo,com.android.launcher3.CellLayout)
+    3481:3482:private void onDropExternal(int[],java.lang.Object,com.android.launcher3.CellLayout,boolean)
+    3806:3806:public com.android.launcher3.CellLayout$CellInfo getDragInfo()
+    4001:4007:void saveWorkspaceToDb()
+    4010:4040:void saveWorkspaceScreenToDb(com.android.launcher3.CellLayout)
+    4435:4447:void moveToCustomContentScreen(boolean)
+    4487:4488:public void getLocationInDragLayer(int[])
+com.android.launcher3.Workspace$State:
+    1:1:public static com.android.launcher3.Workspace$State[] values()
+    1:1:public static com.android.launcher3.Workspace$State valueOf(java.lang.String)
+com.android.launcher3.Workspace$WallpaperOffsetInterpolator:
+    1244:1244:public float getFinalX()
+com.android.launcher3.config.ProviderConfig
+com.android.photos.BitmapRegionTileSource:
+    private static final java.lang.String TAG
+    private static final int GL_SIZE_LIMIT
+    private static final int MAX_PREVIEW_SIZE
+com.android.photos.views.BlockingGLTextureView
+com.android.photos.views.BlockingGLTextureView$EglHelper
+com.android.photos.views.BlockingGLTextureView$RenderThread
+com.android.photos.views.TiledImageRenderer:
+    public static final int SIZE_UNKNOWN
+    private static final java.lang.String TAG
+    private static final int UPLOAD_LIMIT
+    private static final int STATE_ACTIVATED
+    private static final int STATE_IN_QUEUE
+    private static final int STATE_DECODING
+    private static final int STATE_DECODED
+    private static final int STATE_DECODE_FAIL
+    private static final int STATE_RECYCLING
+    private static final int STATE_RECYCLED
+    180:180:public int getViewWidth()
+    184:184:public int getViewHeight()
+com.android.photos.views.TiledImageView:
+    private static final boolean USE_TEXTURE_VIEW
+    private com.android.photos.views.BlockingGLTextureView mTextureView
+    83:83:public static boolean isTilingSupported()
+    116:124:public void destroy()
+    135:141:public void onPause()
+    144:150:public void onResume()
+    246:279:public void positionFromMatrix(android.graphics.Matrix)
+com.android.photos.views.TiledImageView$ColoredTiles

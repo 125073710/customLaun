@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MirrorLauncher</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_uninstall">APP已经被卸载</string>
+    
+
+    
+    <string name="app_gps">高德导航</string>
+    <string name="app_racord">行车记录</string>
+    <string name="app_nusic">设置</string>
+    <string name="app_vedio">视频播放</string>
+    <string name="app_blooth_phone">蓝牙电话</string>
+    <string name="app_radar">云电子狗</string>
+    <string name="app_didihu">嘀嘀虎</string>
+    <string name="app_systemsetting">系统设置</string>
+    <string name="app_fm">音频发射</string>
+    <string name="app_qtfm">蜻蜓FM</string>
+    <string name="app_file_manager">文件管理</string>
+    <string name="app_appmamager">安卓应用</string>
+    <string name="app_wjsc">我叫思聪</string>
+    <string name="app_wechat_assistant">绑定服务</string>
+    <string name="wether_temp_temperature">℃</string>
+    <string name="north">北</string>
+    <string name="east">东</string>
+    <string name="south">南</string>
+    <string name="west">西</string>
+    <string name="default_navigation">默认导航：</string>
+    <string name="navigation_baidu">百度导航</string>
+    <string name="navigation_gaode">高德地图</string>
+    <string name="hint_confirm">确认</string>
+    <string name="hint_cancel">取消</string>
+	<string name="aios_wechat">车载微信</string>
+	<string name="blueth_connect">已连接</string>
+	<string name="blueth_disconnect">未连接</string>
+	<string name="app_blueth_launch">蓝牙发射</string>
+	 <string name="app_ximalaya">喜马拉雅</string>
+	<string name="blueth_dialog">当前处于蓝牙发射模式，暂不支持此功能</string>
+	<string name="waring_page">为了您的安全，车辆行驶中请不要进行操作请务必参照实际的交通规则驾驶!</string>
+	<string name="waring_ok">确认</string>
+	<string name="yes">是</string>
+	<string name="no">否</string>
+	
+
+</resources>
